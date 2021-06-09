@@ -1,0 +1,1 @@
+web: cd frontend;bundle;bundle exec rails s
