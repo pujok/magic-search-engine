@@ -1,1 +1,2 @@
-web: rake pics:hq;cd frontend;bundle;bundle exec rails s
+web: cd frontend;bundle;bundle exec rails s
+worker: bundle exec rake pics:hq
