@@ -64,7 +64,7 @@ describe "CLI Frontend" do
       verbose: true,
       output: <<-EOF,
         Siege Rhino {1}{w}{b}{g}
-        [ktk pktk cp3 prm]
+        [pktk ktk cp3 prm]
         Creature - Rhino
         Trample
         When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.
@@ -118,7 +118,7 @@ describe "CLI Frontend" do
       verbose: true,
       output: <<-EOF,
         Nicol Bolas, the Arisen
-        [m19 pm19 j21]
+        [pm19 m19 j21]
         Legendary Planeswalker - Bolas
         (Color indicator: Nicol Bolas, the Arisen is blue, black, and red)
         [+2]: Draw two cards.
@@ -137,7 +137,7 @@ describe "CLI Frontend" do
       verbose: true,
       output: <<-EOF,
         Steam Vents
-        [gpt rtr exp grn pgrn prm sld]
+        [gpt rtr exp pgrn grn prm sld]
         Land - Island Mountain
         ({T}: Add {U} or {R}.)
         As Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
