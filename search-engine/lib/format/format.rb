@@ -201,6 +201,9 @@ class Format
         "mtgoedh"                    => FormatMTGOCommander,
         "historic"                   => FormatHistoric,
         "premodern"                  => FormatPremodern,
+        "chocoeternal"               => FormatChocoEternal,
+        "chocet"                     => FormatChocoEternal,
+        "choco"                      => FormatChocoEternal,
       }
     end
 
