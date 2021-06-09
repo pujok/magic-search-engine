@@ -1,0 +1,2 @@
+release: cd ..;bundle;bundle exec rake pics:hq
+web: bundle;bundle exec rails s
