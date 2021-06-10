@@ -144,19 +144,21 @@ module ApplicationHelper
   end
 
   def self.card_picture_path(card)
-    url_hq = "/cards_hq/#{card.set_code}/#{card.number}.png"
+    #url_hq = "/cards_hq/#{card.set_code}/#{card.number}.png"
+    url_hq = "https://chocet-bucket.s3.eu-central-1.amazonaws.com/#{card.set_code}/#{card.number}.png"
     url_lq = "/cards/#{card.set_code}/#{card.number}.png"
     path_hq = Pathname(__dir__) + "../../public#{url_hq}"
     path_lq = Pathname(__dir__) + "../../public#{url_lq}"
-    return url_hq if path_hq.exist?
+    return url_hq# if path_hq.exist?
     return url_lq if path_lq.exist?
     nil
   end
 
   def self.card_picture_path_hq(card)
-    url_hq = "/cards_hq/#{card.set_code}/#{card.number}.png"
-    path_hq = Pathname(__dir__) + "../../public#{url_hq}"
-    return url_hq if path_hq.exist?
+    #url_hq = "/cards_hq/#{card.set_code}/#{card.number}.png"
+    url_hq = "https://chocet-bucket.s3.eu-central-1.amazonaws.com/#{card.set_code}/#{card.number}.png"
+    #path_hq = Pathname(__dir__) + "../../public#{url_hq}"
+    return url_hq #if path_hq.exist?
     nil
   end
 
