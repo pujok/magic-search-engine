@@ -133,7 +133,6 @@ class Indexer
       # Patch mtg.wtf bugs - these need to happen early to support patches below
       PatchBasicLandRarity,
       PatchRaritySpecial,
-      PatchBaseSize,
 
       # Calculate extra fields
       PatchBlocks,
@@ -142,19 +141,12 @@ class Indexer
       PatchExcludeFromBoosters,
       PatchFoiling,
       PatchSetTypes,
-      PatchFunny,
       PatchLinkRelated,
-      PatchColorshifted,
-      PatchPrintSheets,
-      PatchMB1,
+      #PatchColorshifted,
+      #PatchPrintSheets,
       PatchShowcase,
-      PatchABUR,
       PatchFrame,
       PatchPartner,
-      PatchBfm,
-      PatchUnstable,
-      PatchShandalar,
-      PatchXmage,
 
       # Patch more mtg.wtf bugs
       PatchAeLigature, # is this even needed anymore?

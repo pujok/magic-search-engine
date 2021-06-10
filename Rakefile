@@ -22,7 +22,7 @@ end
 
 desc "Generate index"
 task "index" do
-  sh "rescue ./indexer/bin/indexer"
+  sh "ruby ./indexer/bin/indexer"
 end
 
 desc "Update mtgjson database"
@@ -78,12 +78,12 @@ end
 
 desc "Fetch HQ pics"
 task "pics:hq" do
-  sh "./bin/fetch_hq_pics"
+  sh "ruby ./bin/fetch_hq_pics"
 end
 
 desc "Save HQ pics hashes"
 task "pics:hq:save" do
-  sh "./bin/save_hq_pics_hashes"
+  sh "ruby ./bin/save_hq_pics_hashes"
 end
 
 desc "Print basic statistics about card pictures"
@@ -93,7 +93,7 @@ end
 
 desc "List cards without pictures"
 task "pics:missing" do
-  sh "./bin/cards_without_pics"
+  sh "ruby ./bin/cards_without_pics"
 end
 
 desc "List cards with duplicated pictures (except where valid)"
@@ -175,4 +175,14 @@ end
 desc "Run pry with database loaded"
 task "pry" do
   sh "./search-engine/bin/pry_cards"
+end
+
+desc "Who are you?"
+task "whoami" do
+ sh 'whoami'
+end
+
+desc "Does dir."
+task "dir" do
+  sh 'dir'
 end

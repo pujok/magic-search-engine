@@ -338,7 +338,7 @@ class CardDatabase
     link_partner_cards!
     setup_artists!
     setup_sort_index!
-    DeckDatabase.new(self).load!
+    #DeckDatabase.new(self).load!
     index_cards_in_precons!
   end
 

@@ -7,7 +7,8 @@ def db
   @db ||= CardDatabase.load
 end
 
-source_base = Pathname("/Users/taw/Downloads/hq_pics/") # "Full" resolution or 200DPI
+#source_base = Pathname("../../AppData/Local/Cockatrice/Cockatrice/pics/CUSTOM/") # "Full" resolution or 200DPI
+source_base = Pathname("C:/Users/Kuba/Documents/AllMtGPics/")
 total = Hash.new(0)
 
 db.sets.each do |set_code, set|
@@ -36,7 +37,7 @@ db.sets.each do |set_code, set|
     end
 
     nth_card[card.name] += 1
-    target_path = Pathname("frontend/public/cards_hq/#{card.set_code}/#{card.number}.png")
+    target_path = Pathname("frontend/public/cards_hq/#{card.set_code}/#{card.number.gsub('*','')}.png")
     next if target_path.exist?
 
     clean_name = card.name.tr("®", "r").tr(':"?', "")
@@ -51,7 +52,8 @@ db.sets.each do |set_code, set|
       "#{clean_name}#{index}.jpg",
       "#{clean_name}#{index}.full.jpg",
       "#{clean_name} [#{index}].jpg",
-      "#{clean_name} [#{index}].full.jpg"
+      "#{clean_name} [#{index}].full.jpg",
+      "#{card.number.gsub('*','')}.jpg",
     ]
     if card.names
       card_names = card.names.map{|x| x.sub(" (CMB1)", "") }
@@ -82,7 +84,7 @@ db.sets.each do |set_code, set|
       FileUtils.cp((source_dir+match), target_path)
     else
       total["miss"] += 1
-      has_lq = Pathname("frontend/public/cards/#{card.set_code}/#{card.number}.png").exist?
+      has_lq = Pathname("frontend/public/cards/#{card.set_code}/#{card.number.gsub('*','')}.png").exist?
       if has_lq
         warn "LQ only: #{card.set.code} - #{card.name}"
       else

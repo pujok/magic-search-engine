@@ -1,4 +1,4 @@
-APP_NAME = "Eternal Unwrapper"
+APP_NAME = "Unwrap the ChocolEt"
 
 # Load the Rails application.
 require_relative "application"
