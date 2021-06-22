@@ -292,7 +292,7 @@ class Card
     ci = colors.chars
     "#{mana_cost} #{text}".scan(/{(.*?)}/).each do |sym,|
       case sym.downcase
-      when /\A(\d+|[½∞txyzsqpcea])\z/
+      when /\A(\d+|[½∞txyzsqpceav])\z/
         # 12xyz - colorless
         # ½∞ - unset colorless
         # t - tap
