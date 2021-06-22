@@ -887,6 +887,260 @@ dgm	153	5479b6cf-816f-5c44-a972-304eb87cfc8c	Orzhov Guildgate
 dgm	154	df5f7ebf-422e-52a3-bc12-19bf116484dd	Rakdos Guildgate
 dgm	155	9c6871ce-a971-5a9a-b63c-8afa747c90ed	Selesnya Guildgate
 dgm	156	c7a4cb9a-a976-53e5-94cc-f54f48eb668a	Simic Guildgate
+dhm	1		Ancient Covenant
+dhm	2		Arduous Journey
+dhm	3		Ashkal Lookout
+dhm	4		Awe for the Dohar
+dhm	5		Azelduum Gatekeepers
+dhm	6		Bastion Defender
+dhm	7		Chthonic Wastemaker
+dhm	8		Desolation Priest
+dhm	9		Dune Watcher
+dhm	10		End of Civilization
+dhm	11		High Priestess of Urukh
+dhm	12		Lithomancy Adept
+dhm	13		Lithomantic Touch
+dhm	14		Meditations of Stone
+dhm	15		Merkym Survivors
+dhm	16		Nahiri, the Weary
+dhm	17		Oasis Wayfinder
+dhm	18		Radiant Scouring
+dhm	19		Rebuff the Sinful
+dhm	20		Roaming Sentinels
+dhm	21		Sand Sentinel
+dhm	22		Scouring Winds
+dhm	23		Shelter in the Wastes
+dhm	24		Souls of the Lost
+dhm	25		Stoneforge Paragon
+dhm	26		Suran Chief
+dhm	27		Suran Pilgrimage
+dhm	28		Suran Pilgrims
+dhm	29		Swift Reproach
+dhm	30		Temple to the Dohar
+dhm	31		Tyrant's Edict
+dhm	32		Tyrant's Enforcer
+dhm	33		Urukh Justiciars
+dhm	34		Wandering Ascetic
+dhm	35		Ancient Insight
+dhm	36		Arcane Merchant
+dhm	37		Ashkal Guard
+dhm	38		Ashkal Navigators
+dhm	39		Awaken the Nameless
+dhm	40		Bury the Past
+dhm	41		Cancel
+dhm	42		Disdainful Stroke
+dhm	43		Dispersal Barrier
+dhm	44		Dune Predator
+dhm	45		Explorer's Intuition
+dhm	46		Fleeting Opportunity
+dhm	47		Grand Archivist
+dhm	48		Hidden Knowledge
+dhm	49		Intrepid Loreseeker
+dhm	50		Keep at Bay
+dhm	51		Leyline Nexus
+dhm	52		Library of Tel'tor
+dhm	53		Lost History
+dhm	54		Pull of the Past
+dhm	55		Relic Translator
+dhm	56		Runestone Shyft
+dhm	57		Runewarder
+dhm	58		Runic Manifestation
+dhm	59		Secret Hoarder
+dhm	60		Seeker of Lost Lore
+dhm	61		Stasis Chamber
+dhm	62		Tel'tor Ruin Diver
+dhm	63		Time-Lost Ascetic
+dhm	64		Tomb Serpent
+dhm	65		Unravelling Reality
+dhm	66		Unsealed Horrors
+dhm	67		Will of the Dohar
+dhm	68		Ahnkar Bombardier
+dhm	69		Ahnkar Militant
+dhm	70		Banestatue Hex
+dhm	71		Blackscar Chargers
+dhm	72		Delve into the Crypts
+dhm	73		Enslaved Laborer
+dhm	74		Fate of the Weak
+dhm	75		Horrid Rite
+dhm	76		Keeper of Dead Secrets
+dhm	77		Ladar Raiders
+dhm	78		Ladar Ritualist
+dhm	79		Ladar Warlord
+dhm	80		Leyline Miasma
+dhm	81		Looming Shadows
+dhm	82		Marad's Inquiry
+dhm	83		Nameless Whispers
+dhm	84		Nerim Deathseer
+dhm	85		Nerim Heretic
+dhm	86		Nezadar Broodqueen
+dhm	87		Nibinem, Tyrant King
+dhm	88		Oblivion Gate
+dhm	89		Reckless Explorer
+dhm	90		Relic Channeler
+dhm	91		Scarland Devourer
+dhm	92		Scarland Monstrosity
+dhm	93		Scourging Stones
+dhm	94		Shadows of Oblivion
+dhm	95		Soul Tether
+dhm	96		Time-Lost Power
+dhm	97		Tomb of the Dohar
+dhm	98		Tyrant's Dominion
+dhm	99		Uncover the Tomb
+dhm	100		Urukh Slaver
+dhm	101		Wasteland Bandits
+dhm	102		Azelduum Wardriver
+dhm	103		Blackscar Breaker
+dhm	104		Blackscar Chieftain
+dhm	105		Bolgrim Archaeologist
+dhm	106		Consuming Darkfire
+dhm	107		Darkfire Burst
+dhm	108		Darkfire Despot
+dhm	109		Darkfire Roamer
+dhm	110		Desert Cutthroat
+dhm	111		Devastating Raze
+dhm	112		Discharge
+dhm	113		Dustshard Elemental
+dhm	114		Dwarven Ambushers
+dhm	115		Dwarven Heartrager
+dhm	116		Echo of the Past
+dhm	117		Engraved Prophecy
+dhm	118		Gnarled-Pass Brute
+dhm	119		Ley Mutation
+dhm	120		Lingering Leyfever
+dhm	121		Ruin Collapse
+dhm	122		Runestone Crucible
+dhm	123		Runestone Igniter
+dhm	124		Sandshaper
+dhm	125		Scarland Marauders
+dhm	126		Stoneforge Assault
+dhm	127		Surgebringer
+dhm	128		Tectonic Shift
+dhm	129		Terem Skirmisher
+dhm	130		Terem Vanguard
+dhm	131		United Strike
+dhm	132		Unstable Power
+dhm	133		Wandering Sibyl
+dhm	134		Warlord's Authority
+dhm	135		Accelerated Erosion
+dhm	136		Ancient Might
+dhm	137		Call of the Hive
+dhm	138		Channel the Heart
+dhm	139		Channel the Sands
+dhm	140		Convoy Vigil
+dhm	141		Cut Down
+dhm	142		Druidic Seeker
+dhm	143		Dune Ambush
+dhm	144		Grandeur of the Dohar
+dhm	145		Husk of the Heart Tree
+dhm	146		Lithotic Fungi
+dhm	147		Lost Secrets
+dhm	148		Monument Crawler
+dhm	149		Nerim Gargantuan
+dhm	150		Nerim Patrol
+dhm	151		Nerim Ritualist
+dhm	152		Nerim Scavenger
+dhm	153		Nerim Scytheclaw
+dhm	154		Nezadar Culler
+dhm	155		Nezadar Sacrament
+dhm	156		Oasis Pathkeepers
+dhm	157		Passage of Time
+dhm	158		Pause for the Ancients
+dhm	159		Petrified Remains
+dhm	160		Relic Scavenger
+dhm	161		Savage Centaurs
+dhm	162		Scarland Ranger
+dhm	163		Sheltered Life
+dhm	164		Tel'tor Explorer
+dhm	165		Tunnel Guard
+dhm	166		Wasteland Caravan
+dhm	167		Anatu, Queen of Ashkal
+dhm	168		Belit, Tel'tor Emissary
+dhm	169		Bolgrim Reclaimers
+dhm	170		Dragon King Teremos
+dhm	171		Drelum, Deepheart Seer
+dhm	172		Halik, Caravan Master
+dhm	173		Loreseeker Hijr
+dhm	174		Marad, Truth Seeker
+dhm	175		Nerim Siegebreaker
+dhm	176		The Nezadar Council
+dhm	177		Pilgrim Caravan
+dhm	178		Roving Warlord
+dhm	179		Runic Insight
+dhm	180		Seek the Mysterious
+dhm	181		Theren, Azelduum Regent
+dhm	182		Tomb Spawn
+dhm	183		Veniss, Nibinem's Hand
+dhm	184		Aetherforge
+dhm	185		Ageless Behemoth
+dhm	186		Ancient Amalgam
+dhm	187		Ancient Passageway
+dhm	188		Antique Curio
+dhm	189		Arcane Gateway
+dhm	190		Arcane Orrery
+dhm	191		Ashkal Pillarstone
+dhm	192		Ashkal Sentry
+dhm	193		Channeling Tower
+dhm	194		Clearsight Eye
+dhm	195		Coiling Matrix
+dhm	196		Colossal Strider
+dhm	197		Crucible Attendant
+dhm	198		Cryptic Cenotaphs
+dhm	199		Deepwater Strider
+dhm	200		Derelict Fortress
+dhm	201		Dohar Bastion
+dhm	202		Dohar Mana Vault
+dhm	203		Enflamed Guardian
+dhm	204		Escort of the Lost
+dhm	205		Eternity Simulacrum
+dhm	206		Fading Lithograph
+dhm	207		Forlorn Temple
+dhm	208		Fossilized Colossus
+dhm	209		Gateway Guardian
+dhm	210		Gliding Stoneskates
+dhm	211		Gnarled Overpass
+dhm	212		Heart Tree Warden
+dhm	213		Hive Protector
+dhm	214		Inscribed Warder
+dhm	215		Intact Leystone
+dhm	216		Ledaru Sentinel
+dhm	217		Ley Siphoner
+dhm	218		Library Cache
+dhm	219		Lost Vault
+dhm	220		Mantle Smasher
+dhm	221		Molten Hellion
+dhm	222		Pillar of Binding
+dhm	223		Purewrought Golem
+dhm	224		Runeshard Charger
+dhm	225		Runestone Citadel
+dhm	226		Runestone Mollusks
+dhm	227		Runestone Sculpture
+dhm	228		Runestone Tower
+dhm	229		Runestone Wanderer
+dhm	230		Runewrought Purveyor
+dhm	231		Scarland Reaper
+dhm	232		Secluded Prison
+dhm	233		Shadow Vault
+dhm	234		Shrouded Ruins
+dhm	235		Spires of Malice
+dhm	236		Stonebound Shadow
+dhm	237		Stoneforge Archway
+dhm	238		Stoneforge Vestige
+dhm	239		Tel'tor Gate
+dhm	240		Timeworn Foundry
+dhm	241		Tomb Sentinel
+dhm	242		Tomb Wanderer
+dhm	243		Urukh Favor
+dhm	244		Ashkal, Civilization's Cradle
+dhm	245		Buried Ruin
+dhm	246		Ledaru, Strait of the Shapers
+dhm	247		Nezadar, the Lost City
+dhm	248		Norgrod, the Ruined Forge
+dhm	249		Telum, Maw of the Past
+dhm	250		Plains
+dhm	251		Island
+dhm	252		Swamp
+dhm	253		Mountain
+dhm	254		Forest
 dis	1	9cbfe285-ce53-5b65-8c65-d56215c9d65b	Aurora Eidolon
 dis	2	5df9324a-27bf-53ba-a867-0d8aa26f4434	Azorius Herald
 dis	3	97b24743-a520-571e-9198-cc015ca5971c	Beacon Hawk
