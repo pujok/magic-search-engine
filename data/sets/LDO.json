@@ -116,13 +116,13 @@
             "name": "Back in the Saddle",
             "number": "3",
             "originalName": "Back in the Saddle",
-            "originalText": "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield. It gains first strike until end of turn.",
+            "originalText": "Return target creature card with mana value 2 or less from your graveyard to the battlefield. It gains first strike until end of turn.",
             "originalType": "Instant",
             "rarity": "uncommon",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield. It gains first strike until end of turn.",
+            "text": "Return target creature card with mana value 2 or less from your graveyard to the battlefield. It gains first strike until end of turn.",
             "type": "Instant",
             "types": [
                 "Instant"
@@ -272,7 +272,7 @@
             "name": "Farajo, Peacemaker",
             "number": "8",
             "originalName": "Farajo, Peacemaker",
-            "originalText": "[+1]: Until your next turn, up to one target creature can't attack and its activated abilities can't be activated.\n[-X]: Search your library for an enchantment card with converted mana cost X, put it onto the battlefield, then shuffle your library.\n[-7]: You get an emblem with \"Creatures can't attack you or planeswalkers you control unless their controller pays {5} for each attacking creature they control.\"",
+            "originalText": "[+1]: Until your next turn, up to one target creature can't attack and its activated abilities can't be activated.\n[-X]: Search your library for an enchantment card with mana value X, put it onto the battlefield, then shuffle.\n[-7]: You get an emblem with \"Creatures can't attack you or planeswalkers you control unless their controller pays {5} for each attacking creature they control.\"",
             "originalType": "Legendary Planeswalker \u2014 Farajo",
             "rarity": "mythic",
             "rulings": [
@@ -287,7 +287,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "[+1]: Until your next turn, up to one target creature can't attack and its activated abilities can't be activated.\n[-X]: Search your library for an enchantment card with converted mana cost X, put it onto the battlefield, then shuffle your library.\n[-7]: You get an emblem with \"Creatures can't attack you or a planeswalker you control unless their controller pays {5} for each attacking creature they control.\"",
+            "text": "[+1]: Until your next turn, up to one target creature can't attack and its activated abilities can't be activated.\n[-X]: Search your library for an enchantment card with mana value X, put it onto the battlefield, then shuffle.\n[-7]: You get an emblem with \"Creatures can't attack you or a planeswalker you control unless their controller pays {5} for each attacking creature they control.\"",
             "type": "Legendary Planeswalker \u2014 Farajo",
             "types": [
                 "Planeswalker"
@@ -591,7 +591,7 @@
             "name": "Guthram Deputy",
             "number": "17",
             "originalName": "Guthram Deputy",
-            "originalText": "When Guthram Deputy enters the battlefield, search your library for an Equipment or Aura card, reveal it, and put it into your hand. Then shuffle your library.",
+            "originalText": "When Guthram Deputy enters the battlefield, search your library for an Equipment or Aura card, reveal it, and put it into your hand. Then shuffle.",
             "originalType": "Creature \u2014 Human Soldier",
             "power": "2",
             "rarity": "uncommon",
@@ -601,7 +601,7 @@
                 "Soldier"
             ],
             "supertypes": [],
-            "text": "When Guthram Deputy enters the battlefield, search your library for an Equipment or Aura card, reveal it, and put it into your hand. Then shuffle your library.",
+            "text": "When Guthram Deputy enters the battlefield, search your library for an Equipment or Aura card, reveal it, and put it into your hand. Then shuffle.",
             "toughness": "2",
             "type": "Creature \u2014 Human Soldier",
             "types": [
@@ -752,7 +752,7 @@
             "name": "Manifestation of Destiny",
             "number": "22",
             "originalName": "Manifestation of Destiny",
-            "originalText": "When Manifestation of Destiny enters the battlefield, search your library for a Plains card, put it onto the battlefield, then shuffle your library. Then create a 0/1 white Goat creature token for each Plains you control.",
+            "originalText": "When Manifestation of Destiny enters the battlefield, search your library for a Plains card, put it onto the battlefield, then shuffle. Then create a 0/1 white Goat creature token for each Plains you control.",
             "originalType": "Creature \u2014 Avatar",
             "power": "5",
             "rarity": "rare",
@@ -761,7 +761,7 @@
                 "Avatar"
             ],
             "supertypes": [],
-            "text": "When Manifestation of Destiny enters the battlefield, search your library for a Plains card, put it onto the battlefield, then shuffle your library. Then create a 0/1 white Goat creature token for each Plains you control.",
+            "text": "When Manifestation of Destiny enters the battlefield, search your library for a Plains card, put it onto the battlefield, then shuffle. Then create a 0/1 white Goat creature token for each Plains you control.",
             "toughness": "7",
             "type": "Creature \u2014 Avatar",
             "types": [
@@ -1386,7 +1386,7 @@
             "name": "Aven Dealer",
             "number": "40",
             "originalName": "Aven Dealer",
-            "originalText": "Flying\nWhen Aven Dealer enters the battlefield, put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "Flying\nWhen Aven Dealer enters the battlefield, put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Bird Rogue",
             "power": "0",
             "rarity": "common",
@@ -1396,7 +1396,7 @@
                 "Rogue"
             ],
             "supertypes": [],
-            "text": "Flying\nWhen Aven Dealer enters the battlefield, put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "Flying\nWhen Aven Dealer enters the battlefield, put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "1",
             "type": "Creature \u2014 Bird Rogue",
             "types": [
@@ -1490,13 +1490,13 @@
             "name": "Call Your Bluff",
             "number": "43",
             "originalName": "Call Your Bluff",
-            "originalText": "Counter target spell unless its controller pays {X}, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "Counter target spell unless its controller pays {X}, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Instant",
             "rarity": "common",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Counter target spell unless its controller pays {X}, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "Counter target spell unless its controller pays {X}, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "type": "Instant",
             "types": [
                 "Instant"
@@ -1557,7 +1557,7 @@
             "name": "Carnival Illusionist",
             "number": "45",
             "originalName": "Carnival Illusionist",
-            "originalText": "When Carnival Illusionist enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "When Carnival Illusionist enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Human Wizard",
             "power": "2",
             "rarity": "rare",
@@ -1567,7 +1567,7 @@
                 "Wizard"
             ],
             "supertypes": [],
-            "text": "When Carnival Illusionist enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "When Carnival Illusionist enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "1",
             "type": "Creature \u2014 Human Wizard",
             "types": [
@@ -1593,7 +1593,7 @@
             "name": "Claim Jumper",
             "number": "46",
             "originalName": "Claim Jumper",
-            "originalText": "Whenever you cast a noncreature spell, target player puts the top three cards of their library into their graveyard.",
+            "originalText": "Whenever you cast a noncreature spell, target player puts the mills three cards.",
             "originalType": "Creature \u2014 Human Scout",
             "power": "0",
             "rarity": "uncommon",
@@ -1603,7 +1603,7 @@
                 "Scout"
             ],
             "supertypes": [],
-            "text": "Whenever you cast a noncreature spell, target player puts the top three cards of their library into their graveyard.",
+            "text": "Whenever you cast a noncreature spell, target player puts the mills three cards.",
             "toughness": "3",
             "type": "Creature \u2014 Human Scout",
             "types": [
@@ -1763,18 +1763,18 @@
             "name": "Expel",
             "number": "51",
             "originalName": "Expel",
-            "originalText": "Counter target spell with converted mana cost 3 or less.",
+            "originalText": "Counter target spell with mana value 3 or less.",
             "originalType": "Instant",
             "rarity": "uncommon",
             "rulings": [
                 {
                     "date": "2017-08-02",
-                    "text": "Alternative costs such as reflex do not change the converted mana cost of a spell."
+                    "text": "Alternative costs such as reflex do not change the mana value of a spell."
                 }
             ],
             "subtypes": [],
             "supertypes": [],
-            "text": "Counter target spell with converted mana cost 3 or less.",
+            "text": "Counter target spell with mana value 3 or less.",
             "type": "Instant",
             "types": [
                 "Instant"
@@ -2469,7 +2469,7 @@
             "name": "Tawney's Huckster",
             "number": "71",
             "originalName": "Tawney's Huckster",
-            "originalText": "When Tawney's Huckster enters the battlefield, draw X cards, then discard X cards, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "When Tawney's Huckster enters the battlefield, draw X cards, then discard X cards, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Human Rogue",
             "power": "1",
             "rarity": "uncommon",
@@ -2479,7 +2479,7 @@
                 "Rogue"
             ],
             "supertypes": [],
-            "text": "When Tawney's Huckster enters the battlefield, draw X cards, then discard X cards, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "When Tawney's Huckster enters the battlefield, draw X cards, then discard X cards, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "4",
             "type": "Creature \u2014 Human Rogue",
             "types": [
@@ -2922,7 +2922,7 @@
             "name": "Dead Man's Hand",
             "number": "84",
             "originalName": "Dead Man's Hand",
-            "originalText": "Whenever a nontoken creature you own dies, return it to your hand unless target opponent pays X life, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "Whenever a nontoken creature you own dies, return it to your hand unless target opponent pays X life, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Enchantment",
             "rarity": "rare",
             "rulings": [
@@ -2933,7 +2933,7 @@
             ],
             "subtypes": [],
             "supertypes": [],
-            "text": "Whenever a nontoken creature you own dies, return it to your hand unless target opponent pays X life, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "Whenever a nontoken creature you own dies, return it to your hand unless target opponent pays X life, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "type": "Enchantment",
             "types": [
                 "Enchantment"
@@ -2988,7 +2988,7 @@
             "name": "Death Cheater",
             "number": "86",
             "originalName": "Death Cheater",
-            "originalText": "When Death Cheater enters the battlefield, return up to X target creature cards from your graveyard to your hand, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "When Death Cheater enters the battlefield, return up to X target creature cards from your graveyard to your hand, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Zombie",
             "power": "2",
             "rarity": "uncommon",
@@ -2997,7 +2997,7 @@
                 "Zombie"
             ],
             "supertypes": [],
-            "text": "When Death Cheater enters the battlefield, return up to X target creature cards from your graveyard to your hand, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "When Death Cheater enters the battlefield, return up to X target creature cards from your graveyard to your hand, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "1",
             "type": "Creature \u2014 Zombie",
             "types": [
@@ -3058,7 +3058,7 @@
             "name": "Festering Blacklung",
             "number": "88",
             "originalName": "Festering Blacklung",
-            "originalText": "When Festering Blacklung enters the battlefield, put the top three cards of your library into your graveyard.",
+            "originalText": "When Festering Blacklung enters the battlefield, mill three cards.",
             "originalType": "Creature \u2014 Zombie",
             "power": "2",
             "rarity": "common",
@@ -3067,7 +3067,7 @@
                 "Zombie"
             ],
             "supertypes": [],
-            "text": "When Festering Blacklung enters the battlefield, put the top three cards of your library into your graveyard.",
+            "text": "When Festering Blacklung enters the battlefield, mill three cards.",
             "toughness": "3",
             "type": "Creature \u2014 Zombie",
             "types": [
@@ -3092,7 +3092,7 @@
             "name": "Gambler's Ruin",
             "number": "89",
             "originalName": "Gambler's Ruin",
-            "originalText": "Enchant creature\nEnchanted creature gets -X/-X, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "Enchant creature\nEnchanted creature gets -X/-X, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Enchantment \u2014 Aura",
             "rarity": "uncommon",
             "rulings": [
@@ -3105,7 +3105,7 @@
                 "Aura"
             ],
             "supertypes": [],
-            "text": "Enchant creature\nEnchanted creature gets -X/-X, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "Enchant creature\nEnchanted creature gets -X/-X, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "type": "Enchantment \u2014 Aura",
             "types": [
                 "Enchantment"
@@ -3192,7 +3192,7 @@
             "name": "Last Will and Testament",
             "number": "92",
             "originalName": "Last Will and Testament",
-            "originalText": "Enchant creature\nWhen enchanted creature dies, search your library for a card and put it into your hand, then shuffle your library.",
+            "originalText": "Enchant creature\nWhen enchanted creature dies, search your library for a card and put it into your hand, then shuffle.",
             "originalType": "Enchantment \u2014 Aura",
             "rarity": "rare",
             "rulings": [],
@@ -3200,7 +3200,7 @@
                 "Aura"
             ],
             "supertypes": [],
-            "text": "Enchant creature\nWhen enchanted creature dies, search your library for a card and put it into your hand, then shuffle your library.",
+            "text": "Enchant creature\nWhen enchanted creature dies, search your library for a card and put it into your hand, then shuffle.",
             "type": "Enchantment \u2014 Aura",
             "types": [
                 "Enchantment"
@@ -3224,13 +3224,13 @@
             "name": "Off the River",
             "number": "93",
             "originalName": "Off the River",
-            "originalText": "Return target creature card from your graveyard to the battlefield, then put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "Return target creature card from your graveyard to the battlefield, then put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Sorcery",
             "rarity": "rare",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Return target creature card from your graveyard to the battlefield, then put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "Return target creature card from your graveyard to the battlefield, then put X +1/+1 counters on it, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -3422,7 +3422,7 @@
             "name": "Riverboat Gambler",
             "number": "98",
             "originalName": "Riverboat Gambler",
-            "originalText": "When Riverboat Gambler enters the battlefield, each opponent loses X life and you gain X life, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "When Riverboat Gambler enters the battlefield, each opponent loses X life and you gain X life, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Human Rogue",
             "power": "2",
             "rarity": "common",
@@ -3432,7 +3432,7 @@
                 "Rogue"
             ],
             "supertypes": [],
-            "text": "When Riverboat Gambler enters the battlefield, each opponent loses X life and you gain X life, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "When Riverboat Gambler enters the battlefield, each opponent loses X life and you gain X life, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "4",
             "type": "Creature \u2014 Human Rogue",
             "types": [
@@ -3457,7 +3457,7 @@
             "name": "Royal Flush",
             "number": "99",
             "originalName": "Royal Flush",
-            "originalText": "At the beginning of your upkeep, if you control a straight of 5 and all permanents in that straight share a color, you win the game. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "At the beginning of your upkeep, if you control a straight of 5 and all permanents in that straight share a color, you win the game. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Enchantment",
             "rarity": "mythic",
             "rulings": [
@@ -3472,7 +3472,7 @@
             ],
             "subtypes": [],
             "supertypes": [],
-            "text": "At the beginning of your upkeep, if you control a straight of 5 and all permanents in that straight share a color, you win the game. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "At the beginning of your upkeep, if you control a straight of 5 and all permanents in that straight share a color, you win the game. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "type": "Enchantment",
             "types": [
                 "Enchantment"
@@ -3894,7 +3894,7 @@
             "name": "Wildcard",
             "number": "112",
             "originalName": "Wildcard",
-            "originalText": "{0}: Choose zero, one, two, three, four, or five. Wildcard's converted mana cost becomes the chosen number until end of turn.",
+            "originalText": "{0}: Choose zero, one, two, three, four, or five. Wildcard's mana value becomes the chosen number until end of turn.",
             "originalType": "Creature \u2014 Shapeshifter",
             "power": "2",
             "rarity": "uncommon",
@@ -3903,7 +3903,7 @@
                 "Shapeshifter"
             ],
             "supertypes": [],
-            "text": "{0}: Choose zero, one, two, three, four, or five. Wildcard's converted mana cost becomes the chosen number until end of turn.",
+            "text": "{0}: Choose zero, one, two, three, four, or five. Wildcard's mana value becomes the chosen number until end of turn.",
             "toughness": "2",
             "type": "Creature \u2014 Shapeshifter",
             "types": [
@@ -4168,7 +4168,7 @@
             "name": "Cardhall Hooligan",
             "number": "120",
             "originalName": "Cardhall Hooligan",
-            "originalText": "Haste\nWhen Cardhall Hooligan enters the battlefield, it gets +X/+0 until end of turn, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "Haste\nWhen Cardhall Hooligan enters the battlefield, it gets +X/+0 until end of turn, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Human Rogue",
             "power": "2",
             "rarity": "common",
@@ -4178,7 +4178,7 @@
                 "Rogue"
             ],
             "supertypes": [],
-            "text": "Haste\nWhen Cardhall Hooligan enters the battlefield, it gets +X/+0 until end of turn, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "Haste\nWhen Cardhall Hooligan enters the battlefield, it gets +X/+0 until end of turn, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "3",
             "type": "Creature \u2014 Human Rogue",
             "types": [
@@ -4278,7 +4278,7 @@
             "name": "Gamble",
             "number": "123",
             "originalName": "Gamble",
-            "originalText": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.",
+            "originalText": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle.",
             "originalType": "Sorcery",
             "rarity": "mythic",
             "rulings": [
@@ -4297,7 +4297,7 @@
             ],
             "subtypes": [],
             "supertypes": [],
-            "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.",
+            "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle.",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -4420,7 +4420,7 @@
             "name": "Greenskin Gambler",
             "number": "127",
             "originalName": "Greenskin Gambler",
-            "originalText": "When Greenskin Gambler enters the battlefield, you may have it deal X damage to target creature, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "When Greenskin Gambler enters the battlefield, you may have it deal X damage to target creature, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Goblin Rogue",
             "power": "3",
             "rarity": "uncommon",
@@ -4430,7 +4430,7 @@
                 "Rogue"
             ],
             "supertypes": [],
-            "text": "When Greenskin Gambler enters the battlefield, you may have it deal X damage to target creature, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "When Greenskin Gambler enters the battlefield, you may have it deal X damage to target creature, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "1",
             "type": "Creature \u2014 Goblin Rogue",
             "types": [
@@ -4523,7 +4523,7 @@
             "name": "Hoarding Dragon",
             "number": "130",
             "originalName": "Hoarding Dragon",
-            "originalText": "Flying\nWhen Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle your library.\nWhen Hoarding Dragon dies, you may put the exiled card into its owner's hand.",
+            "originalText": "Flying\nWhen Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle.\nWhen Hoarding Dragon dies, you may put the exiled card into its owner's hand.",
             "originalType": "Creature \u2014 Dragon",
             "power": "4",
             "rarity": "rare",
@@ -4549,7 +4549,7 @@
                 "Dragon"
             ],
             "supertypes": [],
-            "text": "Flying\nWhen Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle your library.\nWhen Hoarding Dragon dies, you may put the exiled card into its owner's hand.",
+            "text": "Flying\nWhen Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle.\nWhen Hoarding Dragon dies, you may put the exiled card into its owner's hand.",
             "toughness": "4",
             "type": "Creature \u2014 Dragon",
             "types": [
@@ -5030,7 +5030,7 @@
             "name": "Tawney's Charlatan",
             "number": "145",
             "originalName": "Tawney's Charlatan",
-            "originalText": "When Tawney's Charlatan enters the battlefield, exile the top X cards of your library, where X is your longest straight. You may play those cards until the end of your next turn. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "When Tawney's Charlatan enters the battlefield, exile the top X cards of your library, where X is your longest straight. You may play those cards until the end of your next turn. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Creature \u2014 Human Rogue",
             "power": "2",
             "rarity": "rare",
@@ -5040,7 +5040,7 @@
                 "Rogue"
             ],
             "supertypes": [],
-            "text": "When Tawney's Charlatan enters the battlefield, exile the top X cards of your library, where X is your longest straight. You may play those cards until the end of your next turn. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "When Tawney's Charlatan enters the battlefield, exile the top X cards of your library, where X is your longest straight. You may play those cards until the end of your next turn. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "1",
             "type": "Creature \u2014 Human Rogue",
             "types": [
@@ -5389,7 +5389,7 @@
             "name": "Cultivate",
             "number": "155",
             "originalName": "Cultivate",
-            "originalText": "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.",
+            "originalText": "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle.",
             "originalType": "Sorcery",
             "rarity": "common",
             "rulings": [
@@ -5400,7 +5400,7 @@
             ],
             "subtypes": [],
             "supertypes": [],
-            "text": "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.",
+            "text": "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle.",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -5877,7 +5877,7 @@
             "name": "Lumberwood Hodag",
             "number": "168",
             "originalName": "Lumberwood Hodag",
-            "originalText": "Whenever Lumberwood Hodag attacks, you may put the top three cards of your library into your graveyard, then Lumberwood Hodag gets +1/+1 for each creature card in your graveyard until end of turn.",
+            "originalText": "Whenever Lumberwood Hodag attacks, you may mill three cards, then Lumberwood Hodag gets +1/+1 for each creature card in your graveyard until end of turn.",
             "originalType": "Creature \u2014 Beast",
             "power": "3",
             "rarity": "uncommon",
@@ -5886,7 +5886,7 @@
                 "Beast"
             ],
             "supertypes": [],
-            "text": "Whenever Lumberwood Hodag attacks, you may put the top three cards of your library into your graveyard, then Lumberwood Hodag gets +1/+1 for each creature card in your graveyard until end of turn.",
+            "text": "Whenever Lumberwood Hodag attacks, you may mill three cards, then Lumberwood Hodag gets +1/+1 for each creature card in your graveyard until end of turn.",
             "toughness": "3",
             "type": "Creature \u2014 Beast",
             "types": [
@@ -6249,7 +6249,7 @@
             "name": "Rugged Lumberjack",
             "number": "179",
             "originalName": "Rugged Lumberjack",
-            "originalText": "When Rugged Lumberjack enters the battlefield, put the top three cards of your library into your graveyard, then put a +1/+1 counter on Rugged Lumberjack for each land card in your graveyard.",
+            "originalText": "When Rugged Lumberjack enters the battlefield, mill three cards, then put a +1/+1 counter on Rugged Lumberjack for each land card in your graveyard.",
             "originalType": "Creature \u2014 Human Scout",
             "power": "2",
             "rarity": "common",
@@ -6259,7 +6259,7 @@
                 "Scout"
             ],
             "supertypes": [],
-            "text": "When Rugged Lumberjack enters the battlefield, put the top three cards of your library into your graveyard, then put a +1/+1 counter on Rugged Lumberjack for each land card in your graveyard.",
+            "text": "When Rugged Lumberjack enters the battlefield, mill three cards, then put a +1/+1 counter on Rugged Lumberjack for each land card in your graveyard.",
             "toughness": "2",
             "type": "Creature \u2014 Human Scout",
             "types": [
@@ -6275,23 +6275,23 @@
             "colors": [
                 "G"
             ],
-            "convertedManaCost": 3.0,
+            "convertedManaCost": 1.0,
             "flavorText": "\"Paragon Valley or Bust\"\n\u2014Wagon inscription",
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
             "layout": "normal",
-            "manaCost": "{2}{G}",
+            "manaCost": "{X}{X}{G}",
             "name": "Settle",
             "number": "180",
             "originalName": "Settle",
-            "originalText": "Search your library for a land card, put it onto the battlefield tapped, then shuffle your library.",
+            "originalText": "Search your library for X land cards, put them onto the battlefield tapped, then shuffle.",
             "originalType": "Sorcery",
             "rarity": "uncommon",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Search your library for a land card, put it onto the battlefield tapped, then shuffle your library.",
+            "text": "Search your library for X land cards, put them onto the battlefield tapped, then shuffle.",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -7425,7 +7425,7 @@
             "name": "Brainless Scarecrow",
             "number": "212",
             "originalName": "Brainless Scarecrow",
-            "originalText": "{1}{B}, Sacrifice Brainless Scarecrow: Target player discards two cards. Activate this ability only any time you could cast a sorcery.",
+            "originalText": "{1}{B}, Sacrifice Brainless Scarecrow: Target player discards two cards. Activate only as a sorcery.",
             "originalType": "Artifact Creature \u2014 Scarecrow",
             "power": "0",
             "rarity": "common",
@@ -7434,7 +7434,7 @@
                 "Scarecrow"
             ],
             "supertypes": [],
-            "text": "{1}{B}, Sacrifice Brainless Scarecrow: Target player discards two cards. Activate this ability only any time you could cast a sorcery.",
+            "text": "{1}{B}, Sacrifice Brainless Scarecrow: Target player discards two cards. Activate only as a sorcery.",
             "toughness": "3",
             "type": "Artifact Creature \u2014 Scarecrow",
             "types": [
@@ -7558,13 +7558,13 @@
             "name": "Freight Train",
             "number": "216",
             "originalName": "Freight Train",
-            "originalText": "{2}: Draw two cards, then put Freight Train on top of it's owner's library. Activate this ability only any time you could cast a sorcery.",
+            "originalText": "{2}: Draw two cards, then put Freight Train on top of it's owner's library. Activate only as a sorcery.",
             "originalType": "Artifact",
             "rarity": "uncommon",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "{2}: Draw two cards, then put Freight Train on top of it's owner's library. Activate this ability only any time you could cast a sorcery.",
+            "text": "{2}: Draw two cards, then put Freight Train on top of it's owner's library. Activate only as a sorcery.",
             "type": "Artifact",
             "types": [
                 "Artifact"
@@ -8091,7 +8091,7 @@
             "name": "Tinman Grifter",
             "number": "233",
             "originalName": "Tinman Grifter",
-            "originalText": "Tinman Grifter costs {X} less to cast, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "Tinman Grifter costs {X} less to cast, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Artifact Creature \u2014 Construct",
             "power": "4",
             "rarity": "common",
@@ -8100,7 +8100,7 @@
                 "Construct"
             ],
             "supertypes": [],
-            "text": "This spell costs {X} less to cast, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "This spell costs {X} less to cast, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "toughness": "4",
             "type": "Artifact Creature \u2014 Construct",
             "types": [
@@ -8541,7 +8541,7 @@
             "name": "Madame Tawney's Saloon",
             "number": "248",
             "originalName": "Madame Tawney's Saloon",
-            "originalText": "{T}: Add {C}.\n{2}, {T}: Add X mana of any one color, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "originalText": "{T}: Add {C}.\n{2}, {T}: Add X mana of any one color, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "originalType": "Legendary Land",
             "rarity": "rare",
             "rulings": [],
@@ -8549,7 +8549,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "{T}: Add {C}.\n{2}, {T}: Add X mana of any one color, where X is your longest straight. (One or more nonland permanents you control with consecutive converted mana costs form a straight.)",
+            "text": "{T}: Add {C}.\n{2}, {T}: Add X mana of any one color, where X is your longest straight. (One or more nonland permanents you control with consecutive mana values form a straight.)",
             "type": "Legendary Land",
             "types": [
                 "Land"

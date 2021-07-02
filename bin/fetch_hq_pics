@@ -7,8 +7,8 @@ def db
   @db ||= CardDatabase.load
 end
 
-source_base = Pathname("../../AppData/Local/Cockatrice/Cockatrice/pics/CUSTOM/") # "Full" resolution or 200DPI
-#source_base = Pathname("C:/Users/Kuba/Documents/AllMtGPics/")
+#source_base = Pathname("../../AppData/Local/Cockatrice/Cockatrice/pics/CUSTOM/") # "Full" resolution or 200DPI
+source_base = Pathname("C:/Users/Kuba/Documents/AllMtGPics/")
 total = Hash.new(0)
 
 db.sets.each do |set_code, set|

@@ -157,7 +157,7 @@
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Tap up to three target permanents.\nSeal {W}{W} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
+            "text": "Tap up to three target permanents.\nSeal {1}{W} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -811,7 +811,7 @@
             "name": "Sand Sentinel",
             "number": "21",
             "originalName": "Sand Sentinel",
-            "originalText": "When Sand Sentinel enters the battlefield, you may search your library for any number of cards named Sand Sentinel, reveal them, put them into your hand, then shuffle your library.",
+            "originalText": "When Sand Sentinel enters the battlefield, you may search your library for any number of cards named Sand Sentinel, reveal them, put them into your hand, then shuffle.",
             "originalType": "Creature \u2014 Spirit",
             "power": "2",
             "rarity": "common",
@@ -820,7 +820,7 @@
                 "Spirit"
             ],
             "supertypes": [],
-            "text": "When Sand Sentinel enters the battlefield, you may search your library for any number of cards named Sand Sentinel, reveal them, put them into your hand, then shuffle your library.",
+            "text": "When Sand Sentinel enters the battlefield, you may search your library for any number of cards named Sand Sentinel, reveal them, put them into your hand, then shuffle.",
             "toughness": "2",
             "type": "Creature \u2014 Spirit",
             "types": [
@@ -1037,13 +1037,13 @@
             "name": "Suran Pilgrimage",
             "number": "27",
             "originalName": "Suran Pilgrimage",
-            "originalText": "Whenever you cast a noncreature artifact spell, create a 1/1 white Nomad creature token with vigilance.\nAt the beginning of your upkeep, if you control five noncreature artifacts with different converted mana costs, you may sacrifice Suran Pilgrimage. If you do, your life total becomes your starting life total.",
+            "originalText": "Whenever you cast a noncreature artifact spell, create a 1/1 white Nomad creature token with vigilance.\nAt the beginning of your upkeep, if you control five noncreature artifacts with different mana values, you may sacrifice Suran Pilgrimage. If you do, your life total becomes your starting life total.",
             "originalType": "Enchantment",
             "rarity": "rare",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Whenever you cast a noncreature artifact spell, create a 1/1 white Nomad creature token with vigilance.\nAt the beginning of your upkeep, if you control five noncreature artifacts with different converted mana costs, you may sacrifice Suran Pilgrimage. If you do, your life total becomes equal to your starting life total.",
+            "text": "Whenever you cast a noncreature artifact spell, create a 1/1 white Nomad creature token with vigilance.\nAt the beginning of your upkeep, if you control five noncreature artifacts with different mana values, you may sacrifice Suran Pilgrimage. If you do, your life total becomes equal to your starting life total.",
             "type": "Enchantment",
             "types": [
                 "Enchantment"
@@ -1600,26 +1600,26 @@
             "name": "Disdainful Stroke",
             "number": "42",
             "originalName": "Disdainful Stroke",
-            "originalText": "Counter target spell with converted mana cost 4 or greater.",
+            "originalText": "Counter target spell with mana value 4 or greater.",
             "originalType": "Instant",
             "rarity": "common",
             "rulings": [
                 {
                     "date": "2014-09-20",
-                    "text": "A face-down spell has converted mana cost 0 and can\u2019t be targeted by Disdainful Stroke."
+                    "text": "A face-down spell has mana value 0 and can\u2019t be targeted by Disdainful Stroke."
                 },
                 {
                     "date": "2014-09-20",
-                    "text": "A face-down spell has converted mana cost 0 and can't be targeted by Disdainful Stroke."
+                    "text": "A face-down spell has mana value 0 and can't be targeted by Disdainful Stroke."
                 },
                 {
                     "date": "2018-10-05",
-                    "text": "If a spell has {X} in its mana cost, include the value chosen for that X when determining the converted mana cost of that spell."
+                    "text": "If a spell has {X} in its mana cost, include the value chosen for that X when determining the mana value of that spell."
                 }
             ],
             "subtypes": [],
             "supertypes": [],
-            "text": "Counter target spell with converted mana cost 4 or greater.",
+            "text": "Counter target spell with mana value 4 or greater.",
             "type": "Instant",
             "types": [
                 "Instant"
@@ -1795,7 +1795,7 @@
             "name": "Grand Archivist",
             "number": "47",
             "originalName": "Grand Archivist",
-            "originalText": "When Grand Archivist enters the battlefield, exile target instant or sorcery card with converted mana cost 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.",
+            "originalText": "When Grand Archivist enters the battlefield, exile target instant or sorcery card with mana value 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.",
             "originalType": "Creature \u2014 Human Wizard",
             "power": "1",
             "rarity": "rare",
@@ -1805,7 +1805,7 @@
                 "Wizard"
             ],
             "supertypes": [],
-            "text": "{2}{U}, Sacrifice Intrepid Loreseeker: Return target instant or sorcery card from your graveyard to your hand.",
+            "text": "When Grand Archivist enters the battlefield, exile target instant or sorcery card with mana value 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.",
             "toughness": "2",
             "type": "Creature \u2014 Human Wizard",
             "types": [
@@ -2285,7 +2285,7 @@
             "name": "Seeker of Lost Lore",
             "number": "60",
             "originalName": "Seeker of Lost Lore",
-            "originalText": "When Seeker of Lost Lore enters the battlefield, you may search your library for a card with seal, put it onto the battlefield face down as a colorless Relic artifact, then shuffle your library.\nArtifacts you control have \"{1}, {T}: Draw a card, then discard a card.\"",
+            "originalText": "When Seeker of Lost Lore enters the battlefield, you may search your library for a card with seal, put it onto the battlefield face down as a colorless Relic artifact, then shuffle.\nArtifacts you control have \"{1}, {T}: Draw a card, then discard a card.\"",
             "originalType": "Creature \u2014 Human Wizard",
             "power": "2",
             "rarity": "uncommon",
@@ -2300,7 +2300,7 @@
                 "Wizard"
             ],
             "supertypes": [],
-            "text": "When Seeker of Lost Lore enters the battlefield, you may search your library for a card with seal, put it onto the battlefield face down as a colorless Relic artifact, then shuffle your library.\nArtifacts you control have \"{1}, {T}: Draw a card, then discard a card.\"",
+            "text": "When Seeker of Lost Lore enters the battlefield, you may search your library for a card with seal, put it onto the battlefield face down as a colorless Relic artifact, then shuffle.\nArtifacts you control have \"{1}, {T}: Draw a card, then discard a card.\"",
             "toughness": "2",
             "type": "Creature \u2014 Human Wizard",
             "types": [
@@ -2316,7 +2316,7 @@
             "colors": [
                 "U"
             ],
-            "convertedManaCost": 3,
+            "convertedManaCost": 2,
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
@@ -3103,7 +3103,7 @@
             "text": "Face down spells you cast cost {1} less to cast.\n{B}{B}: Sacrifice Looming Shadows: You may cast any number of face down spells from your graveyard this turn.",
             "type": "Enchantment",
             "types": [
-                "Instant"
+                "Enchantment"
             ]
         },
         {
@@ -3362,13 +3362,13 @@
             "name": "Oblivion Gate",
             "number": "88",
             "originalName": "Oblivion Gate",
-            "originalText": "This spell costs {2} less to cast for each creature that died this turn.\nSearch an opponent's library for a nonland card and cast it without paying its mana cost, then shuffle your library.\nSeal {8}{B}{B} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
+            "originalText": "This spell costs {2} less to cast for each creature that died this turn.\nSearch an opponent's library for a nonland card and cast it without paying its mana cost, then that player shuffles.\nSeal {8}{B}{B} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
             "originalType": "Sorcery",
             "rarity": "mythic",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "This spell costs {2} less to cast for each creature that died this turn.\nSearch an opponent's library for a nonland card and cast it without paying its mana cost, then shuffle your library.\nSeal {8}{B}{B} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
+            "text": "This spell costs {2} less to cast for each creature that died this turn.\nSearch an opponent's library for a nonland card and cast it without paying its mana cost, then that player shuffles.\nSeal {8}{B}{B} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -4293,7 +4293,7 @@
             "name": "Dustshard Elemental",
             "number": "113",
             "originalName": "Dustshard Elemental",
-            "originalText": "When Dustshard Elemental enters the battlefield, you may destroy target artifact with converted mana cost 2 or less.\nArtifacts your opponents control enter the battlefield tapped.",
+            "originalText": "When Dustshard Elemental enters the battlefield, you may destroy target artifact with mana value 2 or less.\nArtifacts your opponents control enter the battlefield tapped.",
             "originalType": "Creature \u2014 Elemental",
             "power": "3",
             "rarity": "uncommon",
@@ -4302,7 +4302,7 @@
                 "Elemental"
             ],
             "supertypes": [],
-            "text": "When Dustshard Elemental enters the battlefield, you may destroy target artifact with converted mana cost 2 or less.\nArtifacts your opponents control enter the battlefield tapped.",
+            "text": "When Dustshard Elemental enters the battlefield, you may destroy target artifact with mana value 2 or less.\nArtifacts your opponents control enter the battlefield tapped.",
             "toughness": "2",
             "type": "Creature \u2014 Elemental",
             "types": [
@@ -5114,13 +5114,13 @@
             "name": "Accelerated Erosion",
             "number": "135",
             "originalName": "Accelerated Erosion",
-            "originalText": "Exile target nonland artifact with converted mana cost 3 or less and all other artifacts its controller controls with the same name as that artifact.",
+            "originalText": "Exile target nonland artifact with mana value 3 or less and all other artifacts its controller controls with the same name as that artifact.",
             "originalType": "Sorcery",
             "rarity": "uncommon",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Exile target nonland artifact with converted mana cost 3 or less and all other artifacts its controller controls with the same name as that artifact.",
+            "text": "Exile target nonland artifact with mana value 3 or less and all other artifacts its controller controls with the same name as that artifact.",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -5440,13 +5440,13 @@
             "name": "Grandeur of the Dohar",
             "number": "144",
             "originalName": "Grandeur of the Dohar",
-            "originalText": "Reveal the top X cards of your library, where X is the greatest converted mana cost among permanents you control, then you may put each permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest into your graveyard.",
+            "originalText": "Reveal the top X cards of your library, where X is the greatest mana value among permanents you control, then you may put each permanent card with mana value X or less from among them onto the battlefield. Put the rest into your graveyard.",
             "originalType": "Sorcery",
             "rarity": "mythic",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Reveal the top X cards of your library, where X is the greatest converted mana cost among permanents you control, then you may put each permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest into your graveyard.",
+            "text": "Reveal the top X cards of your library, where X is the greatest mana value among permanents you control, then you may put each permanent card with mana value X or less from among them onto the battlefield. Put the rest into your graveyard.",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -5870,13 +5870,13 @@
             "name": "Nezadar Sacrament",
             "number": "155",
             "originalName": "Nezadar Sacrament",
-            "originalText": "Search your library for a creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.\nSeal {X}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
+            "originalText": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.\nSeal {X}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
             "originalType": "Sorcery",
             "rarity": "rare",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Search your library for a creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.\nSeal {X}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
+            "text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.\nSeal {X}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -6167,13 +6167,13 @@
             "name": "Sheltered Life",
             "number": "163",
             "originalName": "Sheltered Life",
-            "originalText": "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.\nSeal {2}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
+            "originalText": "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.\nSeal {2}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
             "originalType": "Sorcery",
             "rarity": "common",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.\nSeal {2}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
+            "text": "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.\nSeal {2}{G} (You may cast this card face down as a Relic artifact for {2}. You may exile it at any time to cast it for its seal cost.)",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -6281,7 +6281,7 @@
             "name": "Wasteland Caravan",
             "number": "166",
             "originalName": "Wasteland Caravan",
-            "originalText": "Trample\nWhen Wasteland Caravan enters to the battlefield, you may search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle your library.",
+            "originalText": "Trample\nWhen Wasteland Caravan enters to the battlefield, you may search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.",
             "originalType": "Creature \u2014 Human Nomad",
             "power": "5",
             "rarity": "uncommon",
@@ -6291,7 +6291,7 @@
                 "Nomad"
             ],
             "supertypes": [],
-            "text": "Trample\nWhen Wasteland Caravan enters the battlefield, you may search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle your library.",
+            "text": "Trample\nWhen Wasteland Caravan enters the battlefield, you may search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.",
             "toughness": "5",
             "type": "Creature \u2014 Human Nomad",
             "types": [
@@ -6322,7 +6322,7 @@
             "name": "Anatu, Queen of Ashkal",
             "number": "167",
             "originalName": "Anatu, Queen of Ashkal",
-            "originalText": "When Anatu, Queen of Ashkal enters the battlefield, you may search your library for a Structure card, reveal it, put it into your hand, then shuffle your library.\nWhenever you secure a Structure, choose one \u2014\n\u2022 Tap or untap target creature.\n\u2022 Create a 1/1 white and blue Elemental Hound creature token with hexproof.",
+            "originalText": "When Anatu, Queen of Ashkal enters the battlefield, you may search your library for a Structure card, reveal it, put it into your hand, then shuffle.\nWhenever you secure a Structure, choose one \u2014\n\u2022 Tap or untap target creature.\n\u2022 Create a 1/1 white and blue Elemental Hound creature token with hexproof.",
             "originalType": "Legendary Creature \u2014 Wizard",
             "power": "2",
             "rarity": "mythic",
@@ -6333,7 +6333,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "When Anatu, Queen of Ashkal enters the battlefield, you may search your library for a Structure card, reveal it, put it into your hand, then shuffle your library.\nWhenever you secure a Structure, choose one \u2014\n\u2022 Tap or untap target creature.\n\u2022 Create a 1/1 white and blue Elemental Hound creature token with hexproof.",
+            "text": "When Anatu, Queen of Ashkal enters the battlefield, you may search your library for a Structure card, reveal it, put it into your hand, then shuffle.\nWhenever you secure a Structure, choose one \u2014\n\u2022 Tap or untap target creature.\n\u2022 Create a 1/1 white and blue Elemental Hound creature token with hexproof.",
             "toughness": "2",
             "type": "Legendary Creature \u2014 Wizard",
             "types": [
@@ -6364,7 +6364,7 @@
             "name": "Belit, Tel'tor Emissary",
             "number": "168",
             "originalName": "Belit, Tel'tor Emissary",
-            "originalText": "Whenever you cast an instant or sorcery spell, you may pay {V} equal to that spell's converted mana cost. If you do, copy of that spell. You may choose new targets for the copy. (V can be paid with one mana from an artifact or by tapping an artifact you control.)",
+            "originalText": "Whenever you cast an instant or sorcery spell, you may pay {V} equal to that spell's mana value. If you do, copy of that spell. You may choose new targets for the copy. (V can be paid with one mana from an artifact or by tapping an artifact you control.)",
             "originalType": "Legendary Creature \u2014 Viashino Wizard",
             "power": "3",
             "rarity": "rare",
@@ -6376,7 +6376,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "Whenever you cast an instant or sorcery spell, you may pay {V} equal to that spell's converted mana cost. If you do, copy of that spell. You may choose new targets for the copy. (V can be paid with one mana from an artifact or by tapping an artifact you control.)",
+            "text": "Whenever you cast an instant or sorcery spell, you may pay {V} equal to that spell's mana value. If you do, copy of that spell. You may choose new targets for the copy. (V can be paid with one mana from an artifact or by tapping an artifact you control.)",
             "toughness": "4",
             "type": "Legendary Creature \u2014 Viashino Wizard",
             "types": [
@@ -6436,7 +6436,7 @@
                 "B",
                 "R"
             ],
-            "convertedManaCost": 4,
+            "convertedManaCost": 3,
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
@@ -6880,13 +6880,13 @@
             "name": "Seek the Mysterious",
             "number": "180",
             "originalName": "Seek the Mysterious",
-            "originalText": "Search your library for a card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.\nDraw a card.",
+            "originalText": "Search your library for a card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.\nDraw a card.",
             "originalType": "Sorcery",
             "rarity": "uncommon",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Search your library for a card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.\nDraw a card.",
+            "text": "Search your library for a card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.\nDraw a card.",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
@@ -7036,13 +7036,13 @@
             "name": "Aetherforge",
             "number": "184",
             "originalName": "Aetherforge",
-            "originalText": "{1}, {T}, Exile an instant or sorcery spell you control: Search your library for a card with converted mana cost equal to 1 plus the exiled spell's converted mana cost that shares a card type with it, cast it without paying its mana cost, then shuffle your library.",
+            "originalText": "{1}, {T}, Exile an instant or sorcery spell you control: Search your library for a card with mana value equal to 1 plus the exiled spell's mana value that shares a card type with it, cast it without paying its mana cost, then shuffle.",
             "originalType": "Artifact",
             "rarity": "rare",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "{1}, {T}, Exile an instant or sorcery spell you control: Search your library for a card with converted mana cost equal to 1 plus the exiled spell's converted mana cost that shares a card type with it, cast it without paying its mana cost, then shuffle your library.",
+            "text": "{1}, {T}, Exile an instant or sorcery spell you control: Search your library for a card with mana value equal to 1 plus the exiled spell's mana value that shares a card type with it, cast it without paying its mana cost, then shuffle.",
             "type": "Artifact",
             "types": [
                 "Artifact"
@@ -7105,7 +7105,7 @@
             "name": "Ancient Amalgam",
             "number": "186",
             "originalName": "Ancient Amalgam",
-            "originalText": "When Ancient Amalgam enters the battlefield, return target nonland permanent card with converted mana cost X or less from your graveyard to the battlefield, where X is the amount of {W} spent to cast Ancient Amalgam.",
+            "originalText": "When Ancient Amalgam enters the battlefield, return target nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of {W} spent to cast Ancient Amalgam.",
             "originalType": "Artifact Creature \u2014 Golem",
             "power": "3",
             "rarity": "uncommon",
@@ -7114,7 +7114,7 @@
                 "Golem"
             ],
             "supertypes": [],
-            "text": "When Ancient Amalgam enters the battlefield, return target nonland permanent card with converted mana cost X or less from your graveyard to the battlefield, where X is the amount of {W} spent to cast Ancient Amalgam.",
+            "text": "When Ancient Amalgam enters the battlefield, return target nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of {W} spent to cast Ancient Amalgam.",
             "toughness": "2",
             "type": "Artifact Creature \u2014 Golem",
             "types": [
@@ -7173,13 +7173,13 @@
             "name": "Antique Curio",
             "number": "188",
             "originalName": "Antique Curio",
-            "originalText": "{1}, Sacrifice Antique Curio: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.",
+            "originalText": "{1}, Sacrifice Antique Curio: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.",
             "originalType": "Artifact",
             "rarity": "common",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "{1}, Sacrifice Antique Curio: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+            "text": "{1}, Sacrifice Antique Curio: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
             "type": "Artifact",
             "types": [
                 "Artifact"
@@ -7254,7 +7254,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "convertedManaCost": 3,
+            "convertedManaCost": 1,
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
@@ -7263,7 +7263,7 @@
             "isOnlineOnly": false,
             "isPaper": false,
             "layout": "normal",
-            "manaCost": "{3}",
+            "manaCost": "{1}",
             "name": "Ashkal Pillarstone",
             "number": "191",
             "originalName": "Ashkal Pillarstone",
@@ -7568,7 +7568,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "convertedManaCost": 5,
+            "convertedManaCost": 8,
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
@@ -7581,7 +7581,7 @@
             "name": "Derelict Fortress",
             "number": "200",
             "originalName": "Derelict Fortress",
-            "originalText": "You may have creatures you control assign damage equal to Derelict Fortress' stability rather than their power.\nSecure 5\u20145 (5, T: Put five stability counters on this. Secure only as a sorcery.)",
+            "originalText": "You may have creatures you control assign damage equal to Derelict Fortress' stability rather than their power.\nSecure 5\u2014{5} (5, T: Put five stability counters on this. Secure only as a sorcery.)",
             "originalType": "Artifact \u2014 Structure",
             "rarity": "rare",
             "rulings": [
@@ -7599,7 +7599,7 @@
                 "Structure"
             ],
             "supertypes": [],
-            "text": "You may have each creature you control assign combat damage equal to Derelict Fortress's stability rather than its power.\nSecure 5\u20145 (5, T: Put five stability counters on this. Secure only as a sorcery.)",
+            "text": "You may have each creature you control assign combat damage equal to Derelict Fortress's stability rather than its power.\nSecure 5\u2014{5} (5, T: Put five stability counters on this. Secure only as a sorcery.)",
             "type": "Artifact \u2014 Structure",
             "types": [
                 "Artifact"
@@ -7626,7 +7626,7 @@
             "name": "Dohar Bastion",
             "number": "201",
             "originalName": "Dohar Bastion",
-            "originalText": "If a source would deal damage to one or more creatures you control, remove a stability counter from Dohar Bastion instead. Secure 2\u2014{3}{W} ({2}{W}, {T}: Put three stability counters on this. Secure only as a sorcery.)",
+            "originalText": "If a source would deal damage to one or more creatures you control, remove a stability counter from Dohar Bastion instead.\nSecure 2\u2014{3}{W} ({2}{W}, {T}: Put three stability counters on this. Secure only as a sorcery.)",
             "originalType": "Artifact \u2014 Structure",
             "rarity": "uncommon",
             "rulings": [],
@@ -7635,7 +7635,7 @@
                 "Structure"
             ],
             "supertypes": [],
-            "text": "If a source would deal damage to one or more creatures you control, remove a stability counter from Dohar Bastion instead. Secure 2\u2014{3}{W} ({2}{W}, {T}: Put three stability counters on this. Secure only as a sorcery.)",
+            "text": "If a source would deal damage to one or more creatures you control, remove a stability counter from Dohar Bastion instead.\nSecure 2\u2014{3}{W} ({2}{W}, {T}: Put three stability counters on this. Secure only as a sorcery.)",
             "type": "Artifact \u2014 Structure",
             "types": [
                 "Artifact"
@@ -7903,7 +7903,7 @@
             "name": "Gateway Guardian",
             "number": "209",
             "originalName": "Gateway Guardian",
-            "originalText": "Hexproof\nWhen Gateway Guardian enters the battlefield, search your library for an instant or sorcery card for each {U}{U} spent to cast Gateway Guardian, exile them, then shuffle your library.\nYou may play cards exiled with Gateway Guardian.",
+            "originalText": "Hexproof\nWhen Gateway Guardian enters the battlefield, search your library for an instant or sorcery card for each {U}{U} spent to cast Gateway Guardian, exile them, then shuffle.\nYou may play cards exiled with Gateway Guardian.",
             "originalType": "Artifact Creature \u2014 Golem",
             "power": "4",
             "rarity": "rare",
@@ -7912,7 +7912,7 @@
                 "Golem"
             ],
             "supertypes": [],
-            "text": "Hexproof\nWhen Gateway Guardian enters the battlefield, search your library for an instant or sorcery card for each {U}{U} spent to cast Gateway Guardian, exile them, then shuffle your library.\nYou may play cards exiled with Gateway Guardian.",
+            "text": "Hexproof\nWhen Gateway Guardian enters the battlefield, search your library for an instant or sorcery card for each {U}{U} spent to cast Gateway Guardian, exile them, then shuffle.\nYou may play cards exiled with Gateway Guardian.",
             "toughness": "4",
             "type": "Artifact Creature \u2014 Golem",
             "types": [
@@ -7940,7 +7940,7 @@
             "name": "Gliding Stoneskates",
             "number": "210",
             "originalName": "Gliding Stoneskates",
-            "originalText": "Flash\nFlying\nWhen Gliding Stoneskates enters the battlefield, counter target spell with converted mana cost X or less, where X is the amount of {U} spent to cast Gliding Stoneskates.",
+            "originalText": "Flash\nFlying\nWhen Gliding Stoneskates enters the battlefield, counter target spell with mana value X or less, where X is the amount of {U} spent to cast Gliding Stoneskates.",
             "originalType": "Artifact Creature \u2014 Fish",
             "power": "2",
             "rarity": "uncommon",
@@ -7949,7 +7949,7 @@
                 "Fish"
             ],
             "supertypes": [],
-            "text": "Flash\nFlying\nWhen Gliding Stoneskates enters the battlefield, counter target spell with converted mana cost X or less, where X is the amount of {U} spent to cast Gliding Stoneskates.",
+            "text": "Flash\nFlying\nWhen Gliding Stoneskates enters the battlefield, counter target spell with mana value X or less, where X is the amount of {U} spent to cast Gliding Stoneskates.",
             "toughness": "3",
             "type": "Artifact Creature \u2014 Fish",
             "types": [
@@ -8681,7 +8681,7 @@
             "name": "Scarland Reaper",
             "number": "231",
             "originalName": "Scarland Reaper",
-            "originalText": "When Scarland Reaper enters the battlefield, you may destroy target creature with converted mana cost X or less, where X is the amount of {B} spent to cast Scarland Reaper.",
+            "originalText": "When Scarland Reaper enters the battlefield, you may destroy target creature with mana value X or less, where X is the amount of {B} spent to cast Scarland Reaper.",
             "originalType": "Artifact Creature \u2014 Horror",
             "power": "2",
             "rarity": "uncommon",
@@ -8690,7 +8690,7 @@
                 "Horror"
             ],
             "supertypes": [],
-            "text": "When Scarland Reaper enters the battlefield, you may destroy target creature with converted mana cost X or less, where X is the amount of {B} spent to cast Scarland Reaper.",
+            "text": "When Scarland Reaper enters the battlefield, you may destroy target creature with mana value X or less, where X is the amount of {B} spent to cast Scarland Reaper.",
             "toughness": "2",
             "type": "Artifact Creature \u2014 Horror",
             "types": [
@@ -9111,13 +9111,13 @@
             "name": "Urukh Favor",
             "number": "243",
             "originalName": "Urukh Favor",
-            "originalText": "{4}, {T}, Sacrifice Urukh Favor: Put two -1/-1 counters on target creature. Activate this ability only any time you could cast a sorcery.",
+            "originalText": "{4}, {T}, Sacrifice Urukh Favor: Put two -1/-1 counters on target creature. Activate only as a sorcery.",
             "originalType": "Artifact",
             "rarity": "common",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "{4}, {T}, Sacrifice Urukh Favor: Put two -1/-1 counters on target creature. Activate this ability only any time you could cast a sorcery.",
+            "text": "{4}, {T}, Sacrifice Urukh Favor: Put two -1/-1 counters on target creature. Activate only as a sorcery.",
             "type": "Artifact",
             "types": [
                 "Artifact"
@@ -9142,13 +9142,13 @@
             "name": "Ashkal, Civilization's Cradle",
             "number": "244",
             "originalName": "Ashkal, Civilization's Cradle",
-            "originalText": "Ashkal, Civilization's Cradle enters the battlefield tapped.\n{T}: Add {U}.\n{U}{U}{U}{U}{U}, {T}, Exile Ashkal: Search your library for an artifact card with converted mana cost 4 or less, reveal it, put it into your hand, then shuffle your library.",
+            "originalText": "Ashkal, Civilization's Cradle enters the battlefield tapped.\n{T}: Add {U}.\n{U}{U}{U}{U}{U}, {T}, Exile Ashkal: Search your library for an artifact card with mana value 4 or less, reveal it, put it into your hand, then shuffle.",
             "originalType": "Land",
             "rarity": "rare",
             "rulings": [],
             "subtypes": [],
             "supertypes": [],
-            "text": "Ashkal, Civilization's Cradle enters the battlefield tapped.\n{T}: Add {U}.\n{U}{U}{U}{U}{U}, {T}, Exile Ashkal: Search your library for an artifact card with converted mana cost 4 or less, reveal it, put it into your hand, then shuffle your library.",
+            "text": "Ashkal, Civilization's Cradle enters the battlefield tapped.\n{T}: Add {U}.\n{U}{U}{U}{U}{U}, {T}, Exile Ashkal: Search your library for an artifact card with mana value 4 or less, reveal it, put it into your hand, then shuffle.",
             "type": "Land",
             "types": [
                 "Land"
