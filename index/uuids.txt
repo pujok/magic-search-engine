@@ -3345,6 +3345,161 @@ ldo	253		Island
 ldo	254		Swamp
 ldo	255		Mountain
 ldo	256		Forest
+mbs	1	c6e259b6-498f-5d1e-81d5-a67e9e2a075b	Accorder Paladin
+mbs	2	14d7ae7a-83b8-548e-b16b-f1990cde026b	Ardent Recruit
+mbs	3	6fb2027e-6261-565b-82d1-5d97f572657a	Banishment Decree
+mbs	4	780ab3a7-df81-548e-84d9-67e50c7a7b37	Choking Fumes
+mbs	5	0fe79ebc-e7ad-52d6-8027-b3e2d6afc85b	Divine Offering
+mbs	6	3a5770d1-8e86-5a7b-a115-064c763e336b	Frantic Salvage
+mbs	7	991c2a9b-404c-5e82-bb74-410be6afbda5	Gore Vassal
+mbs	8	e321f712-b409-5d7f-807d-b846ac85e6b5	Hero of Bladehold
+mbs	9	9fc0be95-26bf-595a-95b2-57e0ce41aad4	Kemba's Legion
+mbs	10	922a2e0f-6778-59ee-aec6-cf8d11140fa2	Leonin Relic-Warder
+mbs	11	465d569f-1b9e-5b12-9baf-543aff89f749	Leonin Skyhunter
+mbs	12	858ed157-109c-5c38-8d1f-06c441c26512	Loxodon Partisan
+mbs	13	c40afd05-ec34-5caf-9aa7-86fa9be75ab4	Master's Call
+mbs	14	b0a7a503-6420-52e7-9697-7967147216d3	Mirran Crusader
+mbs	15	073b8f73-3fa5-5600-b9e0-5391a65494eb	Phyrexian Rebirth
+mbs	16	a88e514b-7413-58bd-8b86-d90944f1cbd9	Priests of Norn
+mbs	17	a7f3aaad-9f80-58d1-87a1-1619b627271d	Tine Shrike
+mbs	18	66e9287c-8617-545c-8d7d-786f0f787645	Victory's Herald
+mbs	19	cae5ae9b-0e89-5751-8d16-eb35f4639b21	White Sun's Zenith
+mbs	20	540948b9-6c76-5c82-a45f-435ff255f68e	Blue Sun's Zenith
+mbs	21	f20d18b4-6f02-5948-b649-bcc93ba4edc8	Consecrated Sphinx
+mbs	22	d227b963-34b4-5e8d-ad5b-99c619636704	Corrupted Conscience
+mbs	23	9ba907d6-6013-578f-a3b3-db01fcb782e0	Cryptoplasm
+mbs	24	c1403e31-b5e9-57dd-b80a-e39786ced0c2	Distant Memories
+mbs	25	f2c6d0e3-befa-53f4-8540-80c633bf4ea3	Fuel for the Cause
+mbs	26	755e94ec-da81-5b2e-8352-67c3b762dc7e	Mirran Spy
+mbs	27	54cee391-fa58-5337-81b0-caf320b77dc4	Mitotic Manipulation
+mbs	28	53b70775-8f36-5326-bc88-a17cccc45b71	Neurok Commando
+mbs	29	c723f0a0-7d1f-52cd-a83c-61f4fdca3381	Oculus
+mbs	30	4b2423de-3900-5bde-b3b2-c916b6b4846a	Quicksilver Geyser
+mbs	31	18f1846d-a13c-5b40-92b3-9a7805517a62	Serum Raker
+mbs	32	744158c6-3dba-51a4-afee-a4396a780538	Spire Serpent
+mbs	33	888e02ba-8b8b-51cf-b6e4-57b413fff7bf	Steel Sabotage
+mbs	34	b6c66f9e-a854-58fa-a968-c91da24535d4	Treasure Mage
+mbs	35	9a11ec13-0ec5-59c8-9fb9-ec7a607e93b1	Turn the Tide
+mbs	36	2de0258e-d595-527d-b163-5eaa1283d296	Vedalken Anatomist
+mbs	37	b8fdd6e6-2c6c-523e-85e9-7e58d565870b	Vedalken Infuser
+mbs	38	9d48363b-3022-579a-8fb8-2b53e875dc73	Vivisection
+mbs	39	c646a6ef-6de0-540a-a48b-82049555c577	Black Sun's Zenith
+mbs	40	a6dd7462-64bf-5d42-a063-5c280d0d25d1	Caustic Hound
+mbs	41	83379d1f-299d-5a0e-9331-ac3cda192497	Flensermite
+mbs	42	f42f27b9-71dd-56a4-ba5e-8abcd14bc12a	Flesh-Eater Imp
+mbs	43	cba9b662-1710-5952-affc-f66cc1ac53d8	Go for the Throat
+mbs	44	24cc4504-9d0f-584c-bb65-3ea09c572ff4	Gruesome Encore
+mbs	45	e0f16d8f-5ccf-50b7-905b-a0283506a293	Horrifying Revelation
+mbs	46	92b62e2c-32ad-5792-be9b-06d84b22e229	Massacre Wurm
+mbs	47	63e533c1-fb45-55b8-af54-6eb37ed4bee6	Morbid Plunder
+mbs	48	c799d4ce-8444-52bf-a936-f40344a43883	Nested Ghoul
+mbs	49	d9f69074-8941-5315-b985-7d1106e45d1a	Phyresis
+mbs	50	ea0d4fa2-26e3-58be-b808-351b801bf17f	Phyrexian Crusader
+mbs	51	8ec0ee7c-9f5e-5093-9a9d-cbbc7eafe1b0	Phyrexian Rager
+mbs	52	0b54d5be-3e44-52be-9659-8940671b8ebd	Phyrexian Vatmother
+mbs	53	495bb943-0d08-5457-ac86-fd6a5746a7b1	Sangromancer
+mbs	54	5f3072f2-2f43-57b3-8975-44a1cd5c1ffc	Scourge Servant
+mbs	55	7d2d3c51-ad9c-55af-a016-381e3093ee57	Septic Rats
+mbs	56	d1a09a6c-890e-5841-8df3-32346faeae51	Spread the Sickness
+mbs	57	41b3044a-1fda-5d2d-a6cd-a1843e4b4750	Virulent Wound
+mbs	58	0a15e0db-7af2-59c5-a6e0-004504a07bdc	Blisterstick Shaman
+mbs	59	9470bc79-9ead-5851-9b33-e949767944b2	Burn the Impure
+mbs	60	f1b73c2f-0dfd-5eee-8e86-da5490b56813	Concussive Bolt
+mbs	61	acda07e5-0235-59d3-9323-6c539a9a6819	Crush
+mbs	62	6abf881d-cf4b-5144-b1cb-d3b5d72e2a29	Galvanoth
+mbs	63	30141d2f-f9e5-5091-887b-c9e3c6252d57	Gnathosaur
+mbs	64	f3b72539-aa3e-54c4-ac72-3a5d063bd965	Goblin Wardriver
+mbs	65	467eb10b-57b8-5b61-a91a-59288a9dea42	Hellkite Igniter
+mbs	66	9f0dc611-43a5-53f7-8829-9a74fabf7675	Hero of Oxid Ridge
+mbs	67	4cea3d65-b73d-59e1-ba02-c0039db4a77f	Into the Core
+mbs	68	e7536336-92cb-5d6b-a686-bd1a4191b426	Koth's Courier
+mbs	69	2b16661c-01f3-545f-ac05-f0a493c98239	Kuldotha Flamefiend
+mbs	70	9da766ee-24f6-559c-842f-2a06741ae2a9	Kuldotha Ringleader
+mbs	71	f6dbdc09-4bf2-5b46-8792-d1e54397b716	Metallic Mastery
+mbs	72	47a95386-5d6d-5420-b01a-2a65b85294a0	Ogre Resister
+mbs	73	8feeea81-6d1a-53d0-bd7f-29611dc53162	Rally the Forces
+mbs	74	7e84cb8c-2bdc-5ed1-9c77-de663eb3c636	Red Sun's Zenith
+mbs	75	a4901b5f-a359-5d89-911a-37192d9f0607	Slagstorm
+mbs	76	401ad583-530e-518e-9c2c-d4555974ee84	Spiraling Duelist
+mbs	77	a41d050d-c7f3-5583-91ec-2d638e980d65	Blightwidow
+mbs	78	4819ce30-18ee-58fe-8217-191f55cc06c6	Creeping Corrosion
+mbs	79	c93160df-d260-5414-910a-9a69de8fa5c9	Fangren Marauder
+mbs	80	9e9d599d-8b14-5187-9249-2afef50e3ed6	Glissa's Courier
+mbs	81	8a3a1680-762c-5b06-ac86-3b1dbb2b3bc3	Green Sun's Zenith
+mbs	82	6754ebf2-0cd1-5f7d-bf85-13702e7526e4	Lead the Stampede
+mbs	83	e46fc639-21f8-5e58-807e-3b1c21ab3786	Melira's Keepers
+mbs	84	3b95c925-4632-507f-ba39-3902ae4805b6	Mirran Mettle
+mbs	85	e5f15a00-36a9-5926-80af-ffe023fb6f47	Phyrexian Hydra
+mbs	86	6a68e7d9-fb42-5674-af16-5725f31dcfbc	Pistus Strike
+mbs	87	fc6a5c69-36e5-5bd5-b2c4-8f5e645c6f3b	Plaguemaw Beast
+mbs	88	622670ab-28bc-5c0b-89b0-9b3290b74a3e	Praetor's Counsel
+mbs	89	ba6fab91-413f-5d9a-b6fe-37da6042f8ab	Quilled Slagwurm
+mbs	90	ea28e0c3-a1eb-5c92-a048-5cd44c0e4bdf	Rot Wolf
+mbs	91	b800e27b-6886-5590-a7f2-2bf9cf0d7005	Tangle Mantis
+mbs	92	01b9bdce-0e71-5b3b-9224-29e3a45c991d	Thrun, the Last Troll
+mbs	93	f1db9818-202f-5af6-a67c-aa930fbe652c	Unnatural Predation
+mbs	94	24c15f17-f091-5a6e-9a9e-d99fa8bd5c0a	Viridian Corrupter
+mbs	95	2cc1026b-3dd1-5476-9b47-4c0b8b7a0eb1	Viridian Emissary
+mbs	96	deca8f5b-6828-5f8e-9b54-8888e1d689f3	Glissa, the Traitor
+mbs	97	b8f9c6a9-42c3-59a2-a037-50a8776ad5f5	Tezzeret, Agent of Bolas
+mbs	98	cc737241-cb41-574e-84e7-d034e5217ba4	Bladed Sentinel
+mbs	99	83b13871-d088-5b31-a3af-270b38424039	Blightsteel Colossus
+mbs	100	f013d4b6-8744-537e-b0dc-300d228ab013	Bonehoard
+mbs	101	ab08087a-836d-5d8d-b701-3f20068b9e13	Brass Squire
+mbs	102	8e3253ab-a984-508b-a100-e86595da3dba	Copper Carapace
+mbs	103	f9081998-9a10-5399-87b8-db1fba11d8cc	Core Prowler
+mbs	104	618dc4ac-b6c6-510d-9e7d-f6e281e419f3	Darksteel Plate
+mbs	105	db31e7f8-e825-5ce3-b75e-f60b570fcd3e	Decimator Web
+mbs	106	6e0cdf5b-2285-50bf-92cc-88efafc58884	Dross Ripper
+mbs	107	7104146e-c5cb-557f-b2bf-94f602bd59c5	Flayer Husk
+mbs	108	45ab90f9-e2cd-51bf-9182-6a2b06d2347a	Gust-Skimmer
+mbs	109	13280ead-e2b3-5621-8736-35865b2e8b27	Hexplate Golem
+mbs	110	a3a3d64d-187e-50ee-a9b5-2c5289371098	Ichor Wellspring
+mbs	111	dbb4f70f-3084-59b7-ada3-ce6d6c0660df	Knowledge Pool
+mbs	112	b178fa6e-3f1c-539c-92d2-b1672c21fbd5	Lumengrid Gargoyle
+mbs	113	fb1d2d5c-2374-56be-90cb-fbbfbf7ebcbe	Magnetic Mine
+mbs	114	8dfbf825-8018-50c2-bf35-ded05597ce8b	Mirrorworks
+mbs	115	3f16a163-d8fe-5130-93cf-74176bd5dd6f	Mortarpod
+mbs	116	bc856aff-f8d8-5bfb-8b6c-3d7bb25394e1	Myr Sire
+mbs	117	685446ae-f6e3-52a5-b9b4-07e7a7068ec3	Myr Turbine
+mbs	118	9684e32f-0a83-5aeb-af19-cc217cf3157a	Myr Welder
+mbs	119	ba0f14ba-1c80-5ca5-8122-3a8041bb54ea	Peace Strider
+mbs	120	5de1a2fd-de8a-5c82-a417-fb6c8b40e6e1	Phyrexian Digester
+mbs	121	c29bc973-cc0f-585e-ba78-59beb141f5d8	Phyrexian Juggernaut
+mbs	122	23c5d6b2-79b9-5e12-bc82-b53676de22b6	Phyrexian Revoker
+mbs	123	767f194d-2199-516b-98f9-6ee7f19fb728	Pierce Strider
+mbs	124	37083086-1079-5d9f-a396-64af892e6966	Piston Sledge
+mbs	125	20f88dbb-bd22-5f21-9df9-e6e95c20a1b5	Plague Myr
+mbs	126	ce194166-35b9-5eb9-a91b-6400acc4869f	Psychosis Crawler
+mbs	127	22126eb2-3ae1-5dfd-8ee6-0e58e9e04939	Razorfield Rhino
+mbs	128	e04093f9-d57f-50ea-a0bb-54b124d1a14c	Rusted Slasher
+mbs	129	0495b6b4-2b4c-5927-8d99-e78e74eb30a3	Shimmer Myr
+mbs	130	6efb52c4-3c98-552b-8a38-fb1f43417b66	Shriekhorn
+mbs	131	ac4e9caf-42a9-5d68-9924-d6b38d09d871	Signal Pest
+mbs	132	ecb24e70-7dc6-584f-9ff5-a86d580adc76	Silverskin Armor
+mbs	133	f33c7615-56df-56d1-94ba-a51bcc16c546	Skinwing
+mbs	134	3f3c1745-2be0-5347-be4d-9855e9c62050	Sphere of the Suns
+mbs	135	f1ef7511-9605-5138-adcb-fc9ec73c627b	Spin Engine
+mbs	136	6b9b11cb-fce3-5a52-94b3-8252dcc9f43b	Spine of Ish Sah
+mbs	137	f75af259-d0e1-593e-80e1-ea5957f3a8ec	Strandwalker
+mbs	138	73e9af3f-d3d4-5e5b-a02b-592077d738f3	Sword of Feast and Famine
+mbs	139	f0aa4f26-80a5-5a87-9781-cbee6833442e	Tangle Hulk
+mbs	140	b187f3ce-a666-54b8-859f-66be5cd7a0b8	Thopter Assembly
+mbs	141	ba2c7c77-00e2-5b7f-abfd-aa3cc9e60dd4	Titan Forge
+mbs	142	4b9645d2-5454-585e-8edc-65162a4c8957	Training Drone
+mbs	143	28337c42-4fb1-581c-b829-f16197779c52	Viridian Claw
+mbs	144	85bade45-2337-50a0-88ae-9b9244372fc8	Contested War Zone
+mbs	145	8ba201f1-3028-5530-815d-06016aadb10d	Inkmoth Nexus
+mbs	146	fb10965b-21de-5338-b0f6-14199dab47d6	Plains
+mbs	147	03c15c6f-df43-5f7d-9420-a65897b215ab	Plains
+mbs	148	162a0be6-c3d2-5bd0-8a29-83f662d447e3	Island
+mbs	149	1c996bb5-21ed-5d10-9c7c-5ee5beaa8daa	Island
+mbs	150	fd68d601-a412-51ce-afcc-d9399ee505a1	Swamp
+mbs	151	b6117ab6-e976-5cb7-a2e2-6ed5e952c928	Swamp
+mbs	152	b5ceafff-ebee-523d-a78d-f47edee9692d	Mountain
+mbs	153	2b3deca9-48a1-5d9f-98b0-3d0f69864fd3	Mountain
+mbs	154	374414bd-e7c2-5639-8a79-90270840a03f	Forest
+mbs	155	c38dc173-1096-55f2-bbc2-475f847c5336	Forest
 mh1	1	e562c426-78dd-5f0e-86b7-3756069f5d5c	Morophon, the Boundless
 mh1	2	2a6226fe-5f33-5727-aad6-655fdc7cb5db	Answered Prayers
 mh1	3	76469a16-5cbc-59fe-8679-b9d2cad9bce8	Astral Drift
@@ -5268,6 +5423,255 @@ soi	294	e9ffdd5d-bf6d-5932-9eaa-9f5bee9e0b99	Mountain
 soi	295	1e071913-2122-5572-9acc-1e44287a3013	Forest
 soi	296	6487f87a-627b-5fa6-a778-b0878859ecdc	Forest
 soi	297	0e5a6ea7-57a7-5d69-8f74-4287e8fea227	Forest
+som	1	116a354a-aa21-5431-89a1-2891d8040895	Abuna Acolyte
+som	2	3d90e43f-e4c2-5c2a-a68c-5529d94f421a	Arrest
+som	3	669585f9-c691-500c-a677-624dbf634362	Auriok Edgewright
+som	4	edd41970-82c5-5af9-80cb-e1523fbf1eb1	Auriok Sunchaser
+som	5	a1865a89-27bd-53cc-a0be-3aa8efed372b	Dispense Justice
+som	6	4883a163-501c-56cc-8b5a-4e6e402852c5	Elspeth Tirel
+som	7	3f30989f-bdab-5578-a0ac-7dad0f7c7b71	Fulgent Distraction
+som	8	c3a4e163-c1a1-596f-bfaf-f435743210ca	Ghalma's Warden
+som	9	94b5d736-be66-5e2f-898a-28ab71761d26	Glimmerpoint Stag
+som	10	81f8333a-4dd1-539f-a9a7-d2c0587ca188	Glint Hawk
+som	11	fc1ec09b-a727-5440-8198-ab866950d00c	Indomitable Archangel
+som	12	5897dad3-3ccc-5809-b99f-644088a20827	Kemba, Kha Regent
+som	13	be9e802d-efc0-51ba-a9af-b9f1096ad31d	Kemba's Skyguard
+som	14	62f24a52-4303-5b1d-bea8-d60b2c3f031a	Leonin Arbiter
+som	15	d2109b0a-e870-5a15-b97a-1783eda6dd43	Loxodon Wayfarer
+som	16	369a9e4f-06c8-5baf-9f3d-c722437ed2f5	Myrsmith
+som	17	c4257147-f419-56c6-bab6-c0772631adfa	Razor Hippogriff
+som	18	3b16d502-d91e-51e7-930b-6d1c845371f0	Revoke Existence
+som	19	3009d6fb-4b95-538a-ba71-d48f1d9f2a60	Salvage Scout
+som	20	8c4719f5-5d9d-5498-ac60-0ce1276e4c0c	Seize the Initiative
+som	21	a3bd04f1-559c-5893-97c3-f07877abd6f0	Soul Parry
+som	22	822ff758-f2a1-5f86-83c0-711c1b496801	Sunblast Angel
+som	23	3a29328c-c0be-5f0d-87c1-0d0e465487d0	Sunspear Shikari
+som	24	231d9b07-265c-51e5-85cd-522509c4eaf5	Tempered Steel
+som	25	7108b3c6-6b45-509b-8467-4c6e9e9f837e	True Conviction
+som	26	53366845-32f2-5329-813e-d7f61fb3dab3	Vigil for the Lost
+som	27	423032c6-4acb-5901-92a6-800e60e7fd2c	Whitesun's Passage
+som	28	b6e42188-cdf0-5181-b955-cd345cbc8804	Argent Sphinx
+som	29	2539237f-964a-51b2-b231-faa90e68ab4c	Bonds of Quicksilver
+som	30	8fdf6421-242f-5fbf-8b26-5f514dd2fddd	Darkslick Drake
+som	31	fb113368-cd90-5102-a6e0-3cf0444b2b73	Disperse
+som	32	674f0eeb-dcbd-549a-8ae0-2611cc2fb534	Dissipation Field
+som	33	aebd21fe-1737-528c-8160-c043e501be0b	Grand Architect
+som	34	eab98698-4096-5f6e-be0c-3848e0d8fe18	Halt Order
+som	35	6b4b4a0a-d9c8-55ae-8317-43ea95d8ebc0	Inexorable Tide
+som	36	e51e43e3-768e-5841-bd6f-28657c7210ed	Lumengrid Drake
+som	37	ab123ec3-6092-5ce2-a761-daec864cca15	Neurok Invisimancer
+som	38	3643ddbc-3573-50e8-bc20-d2174ff34b56	Plated Seastrider
+som	39	27b26876-de5f-5ce5-b8ce-56a49f87b40e	Quicksilver Gargantuan
+som	40	75f8af9d-0e14-50d1-a1c0-6ddf331a63e2	Riddlesmith
+som	41	9a636637-7353-5a52-bc6b-8004769e6545	Scrapdiver Serpent
+som	42	910e33df-8fa4-5aee-9847-24e74d623bb0	Screeching Silcaw
+som	43	68fa7911-b55c-5976-a34e-64695547daf2	Shape Anew
+som	44	69a9d6e4-d840-5dac-aa97-82366f610e79	Sky-Eel School
+som	45	b0be3ab8-8456-5389-a62b-1c425bfafda5	Steady Progress
+som	46	e5e998bb-7892-5684-9a04-72d564540937	Stoic Rebuttal
+som	47	1e6d17ee-84dc-5d36-b297-376d945a779f	Thrummingbird
+som	48	66160dd6-6de4-5fb1-8298-0f9374e685e4	Trinket Mage
+som	49	147fe93a-fd02-5a5d-83f1-63b156589e27	Turn Aside
+som	50	5983b6cd-f5dd-5359-8226-275f80be6554	Twisted Image
+som	51	90595c42-703c-511d-9831-b5a473dfbf57	Vault Skyward
+som	52	8cce22f2-64c3-5e9f-b98b-b33a5f3e58bc	Vedalken Certarch
+som	53	8ba68112-4be3-5126-9d52-3668c8347cc6	Volition Reins
+som	54	735b8149-7073-528e-b369-cbcbbc880e54	Blackcleave Goblin
+som	55	f8aca348-cf0e-5c37-a26d-39606f091502	Bleak Coven Vampires
+som	56	d3d1946e-fa7a-5a59-b22a-976c38959235	Blistergrub
+som	57	cd8b32f4-0cbc-5ca5-b770-f9dea6486410	Carnifex Demon
+som	58	29a41d54-e82c-5273-9f60-98ff3184e491	Contagious Nim
+som	59	e49480fe-df66-5a1f-b0d4-830f6a18eca4	Corrupted Harvester
+som	60	3d94c809-3423-5c79-9665-52ddc3e1c453	Dross Hopper
+som	61	7cda8b30-2a5d-59e8-89ee-41cc356219be	Exsanguinate
+som	62	f841865f-8d2a-5a51-bf24-1487f94e032c	Flesh Allergy
+som	63	6ebb9805-3b84-56c7-acce-b7ac58b1dddb	Fume Spitter
+som	64	e6567b20-26fb-5d01-b1b7-841bb0b0a777	Geth, Lord of the Vault
+som	65	c3d8406d-7f44-5cbb-8c96-9ef4a5e120d1	Grasp of Darkness
+som	66	548218a7-db25-544e-a3f6-ddad80793e80	Hand of the Praetors
+som	67	439a8fc0-f91e-5226-9378-1a5f4e143327	Ichor Rats
+som	68	02978515-f8c8-5afe-8d80-46dcf509926d	Instill Infection
+som	69	847187d7-03ad-51aa-98e4-bbd6fefbdd08	Memoricide
+som	70	3725872d-69e7-5fef-9808-86e5cd027704	Moriok Reaver
+som	71	ed2a3294-e470-50ee-8557-ed3afb54b506	Necrogen Scudder
+som	72	692b459a-907b-5757-ac9c-4bb44d722384	Necrotic Ooze
+som	73	efcfcd26-febb-5eba-a258-d41fded27a9a	Painful Quandary
+som	74	caaae53b-770f-5531-80a6-650ad560b8ba	Painsmith
+som	75	48ad23dd-06b8-587a-a97c-ae4f5234c20c	Plague Stinger
+som	76	02b24252-def9-5979-a4a5-87f02ead102d	Psychic Miasma
+som	77	052548e8-6b6c-582d-934e-f90064c3295d	Relic Putrescence
+som	78	9a5c98ca-d5a3-558d-9ead-bc49dcda7ece	Skinrender
+som	79	c5425ac3-e7e2-557e-ab91-31948e1e2184	Skithiryx, the Blight Dragon
+som	80	ee7eacb3-ac16-54a4-97b6-e16725f372ff	Tainted Strike
+som	81	967d7d8b-d1cf-5681-8d7a-309f1e740b41	Arc Trail
+som	82	bedad837-5f8c-544f-a70f-be6861e6b3ac	Assault Strobe
+som	83	be60b273-ba2c-5ec6-9797-bdcac722fa89	Barrage Ogre
+som	84	e47346b1-3c26-5ba5-b349-518fae9500ea	Blade-Tribe Berserkers
+som	85	b692d3e8-1924-5960-a3bc-e45ba424562d	Bloodshot Trainee
+som	86	5468467a-d7c5-5640-bab7-80bf5c59bbb2	Cerebral Eruption
+som	87	005879e4-0fd0-5508-b175-5275d4a2677d	Embersmith
+som	88	9e3cdb0c-b0a4-57c3-b3ca-18d5ce521478	Ferrovore
+som	89	fab765e7-fe5e-5490-b554-5cdcf0e38368	Flameborn Hellion
+som	90	9c84746b-6ecd-5ffb-a1d4-bc825eb794c0	Furnace Celebration
+som	91	60834b42-64dc-572a-8438-631417312191	Galvanic Blast
+som	92	d1876664-591a-59d0-ac30-7ea974303a82	Goblin Gaveleer
+som	93	cc7bfd65-4a93-5190-ac17-2caf39b4933f	Hoard-Smelter Dragon
+som	94	131b8963-eeac-5c4b-a551-6f0a584c11dd	Koth of the Hammer
+som	95	f628d312-cb02-5971-9d0a-c535313db50b	Kuldotha Phoenix
+som	96	76422066-3b3b-57ba-a17d-b4719b9f6437	Kuldotha Rebirth
+som	97	e9cf87a0-9b2e-53be-ac23-7b77dd7520cb	Melt Terrain
+som	98	ccbe3ddf-dd99-5aa9-99d4-72742eeeb316	Molten Psyche
+som	99	05017f71-81c6-59f1-a5eb-62af43ee5908	Ogre Geargrabber
+som	100	7bfb5e99-88b0-51dd-9975-c87e5e85217e	Oxidda Daredevil
+som	101	c6703068-1b93-5a28-8ca0-f950266cc460	Oxidda Scrapmelter
+som	102	5c146a24-8f3f-5b0d-aa7c-d34c083c8497	Scoria Elemental
+som	103	d1c9c868-fe90-5a28-9610-5360ac4b46e1	Shatter
+som	104	d3da4b00-c23d-50d5-9995-8edf7cf0fd91	Spikeshot Elder
+som	105	cbd6ee7a-bd83-5cfc-a29a-f5027d4413f9	Tunnel Ignus
+som	106	dd2db92e-df0d-54f6-8e42-f5851b59aaed	Turn to Slag
+som	107	9cee4c80-2f68-522d-a4e3-88ffbd24b1e9	Vulshok Heartstoker
+som	108	e689acce-2500-5cf3-9499-56d86f22b414	Acid Web Spider
+som	109	ef685bf7-87d2-575f-83d2-04221aba8a2f	Alpha Tyrranax
+som	110	2946d60e-6493-5fce-9738-e60a9c56ca50	Asceticism
+som	111	0c3c2bb1-0ed9-5f26-bedd-e1390eb8528d	Bellowing Tanglewurm
+som	112	44bca4c8-afdc-5319-8d70-284847030b52	Blight Mamba
+som	113	0a0f1783-67c3-5c94-8fc8-a49a4a750824	Blunt the Assault
+som	114	4bd76b92-4922-54b4-b146-7d353e9b5592	Carapace Forger
+som	115	99fac9be-4698-5c49-84a1-83e66930204d	Carrion Call
+som	116	0dcb1a28-5162-5320-aa26-8729c86f615b	Copperhorn Scout
+som	117	2d89c1d9-f215-50f3-a6e7-7b68fa71760d	Cystbearer
+som	118	6773272c-88d5-5643-8aef-b45992783461	Engulfing Slagwurm
+som	119	8f21ee62-438e-55b8-95de-933caf33b1ff	Ezuri, Renegade Leader
+som	120	6951c244-7233-5777-8e7f-188c92720c67	Ezuri's Archers
+som	121	9e713af4-08ca-5728-a2f7-55008aea728a	Ezuri's Brigade
+som	122	e0048ebb-4e37-5d4d-8387-1739219bc677	Genesis Wave
+som	123	257b6dba-aa50-57f6-a3b5-0bdcde1ac009	Liege of the Tangle
+som	124	69e48277-820d-5be2-955a-802f4846a4cd	Lifesmith
+som	125	bf4837b9-f117-5a4b-8c38-1477bd7cebce	Molder Beast
+som	126	a48e9c7f-6182-5bb5-bdcf-d019898a9b45	Putrefax
+som	127	809f1246-5a60-5f80-8e72-9d09aa858037	Slice in Twain
+som	128	bc90e2e6-401a-57d7-bf0f-5f130c700d5b	Tangle Angler
+som	129	6778dc31-bfaf-5443-a55d-9ae123959f13	Tel-Jilad Defiance
+som	130	26551c5e-4ccb-5cad-9a8f-665477f2914a	Tel-Jilad Fallen
+som	131	269e86be-d51d-51e4-be56-b3057644e86a	Untamed Might
+som	132	153b2b1f-149b-558a-8db0-7b7aa9953ce0	Viridian Revel
+som	133	52b46fab-f497-5dd7-9722-94b0cb2a5450	Wing Puncture
+som	134	83520e33-d9d2-5291-9836-70fb43492cca	Withstand Death
+som	135	da2ccb29-71df-5026-940a-60412a9c5150	Venser, the Sojourner
+som	136	43fc47a1-f95d-57e5-a323-eb3ac2db599b	Accorder's Shield
+som	137	b3de99b4-9f7f-5adf-90ae-899334850432	Argentum Armor
+som	138	57920f91-f25f-5fd7-a652-a6b45540ea58	Auriok Replica
+som	139	89758ea0-8eb2-50d6-9df8-6d962884f78e	Barbed Battlegear
+som	140	88e1a519-ad8b-562b-9d6a-0f483ab87139	Bladed Pinions
+som	141	ad8ff267-1f2c-5a7e-8bf1-4f7705b390d1	Chimeric Mass
+som	142	72dd879a-b7cd-5769-83b5-ee12934cae66	Chrome Steed
+som	143	babfa662-a06a-5930-be40-ece4ee45d618	Clone Shell
+som	144	f58bc388-234e-5f49-9fd9-59fb5921d6f6	Contagion Clasp
+som	145	7dc86c33-dc1a-567b-930c-0e71c80894ae	Contagion Engine
+som	146	7a9f31b6-8c6b-5c5d-b3f3-a37448ad7ab8	Copper Myr
+som	147	0e236f50-d5c8-57c5-ba11-ab64f89a1109	Corpse Cur
+som	148	b187f7cf-69c0-5f0d-bee9-70d5d5db920b	Culling Dais
+som	149	9db73f43-9b62-5a35-94a3-1db83a44d87a	Darksteel Axe
+som	150	d3a0c73b-18d4-52fe-89e3-a4f516791873	Darksteel Juggernaut
+som	151	a2bccb1c-13c0-58a3-8c25-88b0f9f34a9e	Darksteel Myr
+som	152	f71969ff-63fe-54b3-a63a-d4181b4c5625	Darksteel Sentinel
+som	153	ccc462d7-920c-5c6d-b9f2-37beb199bc37	Echo Circlet
+som	154	2022be11-8834-5f89-ac1f-ead55b1c8e6c	Etched Champion
+som	155	586f8c07-4fad-5fae-b860-b53d8d5e9659	Flight Spellbomb
+som	156	68491310-4595-5e9e-b19d-2f14458bc300	Glint Hawk Idol
+som	157	f18f75f8-7288-54cf-82cb-fff54a30a46f	Gold Myr
+som	158	9426e21e-a307-5934-a66d-4c95b39c4cca	Golden Urn
+som	159	8c56ccc9-a13d-58c9-b598-62ed6366a6ff	Golem Artisan
+som	160	efdf0b0a-00c3-54a1-9beb-f6a6b25b3a88	Golem Foundry
+som	161	af0321a3-c960-5177-b908-6be9e72f3970	Golem's Heart
+som	162	2a22d2ca-1001-51fd-87a8-a976bcbfc3ec	Grafted Exoskeleton
+som	163	e6e44a8c-f528-5de3-b9bd-53bf1e6eee04	Grindclock
+som	164	bf3e5e01-f604-5abf-86e5-83f5f37cdff5	Heavy Arbalest
+som	165	83f99a4b-ec3d-598b-b273-cb2613d5badc	Horizon Spellbomb
+som	166	037cdfa9-56d8-566d-a4c8-76d07d3f34de	Ichorclaw Myr
+som	167	827bed05-8af8-59aa-b783-7dad2ccbc0d0	Infiltration Lens
+som	168	3b28d602-b0cb-51bb-a115-d5801a859a76	Iron Myr
+som	169	a9ee6770-a805-5f90-86c9-a97b7189c03b	Kuldotha Forgemaster
+som	170	f754d138-18a0-5505-aab9-22817ffadac3	Leaden Myr
+som	171	9368df7b-e340-5e8b-8162-9f179e5ca0f4	Liquimetal Coating
+som	172	9403c3ac-3f88-5abb-a5b7-36645b84afc2	Livewire Lash
+som	173	d6c68192-f0f7-56b3-8196-4a490070f609	Lux Cannon
+som	174	80fbb371-969d-5f8d-89a6-8c10b1d7c9ec	Memnite
+som	175	09d82b86-d60b-5efe-a4d0-d4c157314185	Mimic Vat
+som	176	d45c262a-2656-5f92-ad86-c54cec771bea	Mindslaver
+som	177	9d77fa8a-6a24-5d8e-9b79-b348da31fe2b	Molten-Tail Masticore
+som	178	a9a8ce3a-2d95-566c-b3d3-d7ada7cf2ad6	Moriok Replica
+som	179	766bf6fd-1dbc-5892-89c6-b98c69641451	Mox Opal
+som	180	f76239ef-359a-592e-8c3b-808089704667	Myr Battlesphere
+som	181	3ce92115-cf3c-592f-a6aa-f29c13ae39f7	Myr Galvanizer
+som	182	ebed48ca-6199-54e7-b14f-b59155316b5e	Myr Propagator
+som	183	84306e46-0bf5-53d2-b247-60423f86ea3c	Myr Reservoir
+som	184	6ad5da91-71fb-5745-9858-0146bb4d0a44	Necrogen Censer
+som	185	4507013e-cabb-5a64-9f19-04ee95d0af7c	Necropede
+som	186	7fad137a-9367-516b-8468-58afbb1f6c58	Neurok Replica
+som	187	65dfa5c0-18cf-53f3-b6b9-3ee558200e29	Nihil Spellbomb
+som	188	25065b4f-42ba-5fe5-870f-e0a50d8e2ae0	Nim Deathmantle
+som	189	bec1bfb1-03d0-5a9f-a507-daf95cfa48aa	Origin Spellbomb
+som	190	59536d0e-a729-5594-a527-5ed981f8ca50	Palladium Myr
+som	191	0addd93f-2430-5528-b53a-50d076ed0f6e	Panic Spellbomb
+som	192	367bcfb1-1f7f-5e5d-8780-252617fb05e6	Perilous Myr
+som	193	f5609084-e5d4-5426-8df8-9f3404c828d4	Platinum Emperion
+som	194	af7e6dc0-636e-538b-956a-9cee90365bc9	Precursor Golem
+som	195	b5a4cc82-7886-5ea3-a0f1-1ce5489b3acf	Prototype Portal
+som	196	cfda9f24-8817-5ea7-8fda-b0d0ad8cf0f6	Ratchet Bomb
+som	197	00b156fc-649b-593e-b62d-ba0fe89e648e	Razorfield Thresher
+som	198	bc57f8a1-f6b2-516b-9d96-941b51d5210a	Rust Tick
+som	199	fcedce3c-f34b-56b1-80b6-75653c8897b4	Rusted Relic
+som	200	fde6c2b6-a76c-5967-96b7-b38fb4574d8b	Saberclaw Golem
+som	201	4e87b8b7-077d-56de-b809-9fe1d67d6cdc	Semblance Anvil
+som	202	ccd5b280-af91-58b2-a403-6e69fd6b2b1d	Silver Myr
+som	203	8f2f47b3-4e20-5c69-bdc2-8818baf707cf	Snapsail Glider
+som	204	5bef02c6-f28e-573c-bd20-e350584c0014	Soliton
+som	205	91fdc245-fb65-5079-a019-5813ca1278b4	Steel Hellkite
+som	206	ca32758a-7f43-5dc6-b564-b80d58d4a62a	Strata Scythe
+som	207	1eee5906-a598-5f48-a047-98008a4e2d9c	Strider Harness
+som	208	fa97a94c-ca67-545b-a1b9-120959952077	Sword of Body and Mind
+som	209	a4b120c8-0344-55fa-ab7d-467d3df971af	Sylvok Lifestaff
+som	210	1190bc1e-45b3-58df-a8c7-bc2ca6106213	Sylvok Replica
+som	211	6ab396ba-ad6c-51b6-8960-b6a29c7cf753	Throne of Geth
+som	212	0b76a866-a557-5b67-8783-ecb9e472232c	Tower of Calamities
+som	213	e0f2cd21-8879-5033-b12d-1e04954cce4b	Trigon of Corruption
+som	214	ddee5287-96c1-5cd9-8e76-18f451f66610	Trigon of Infestation
+som	215	afcf5dac-22e6-51f6-abb2-8ec4ca68b50a	Trigon of Mending
+som	216	fca98a7f-9149-53e8-be8d-9e18746903ce	Trigon of Rage
+som	217	ccc33e95-800a-53db-8191-91038e4faf94	Trigon of Thought
+som	218	0491c938-4a32-5c63-ac20-751ccfa13672	Tumble Magnet
+som	219	bd304b92-5a89-55d6-95d4-656fce3d0b86	Vector Asp
+som	220	d5605293-dffa-5353-9448-55c633534d9c	Venser's Journal
+som	221	206933ef-fda7-5778-a8b7-c919eee340d1	Vulshok Replica
+som	222	7151e70c-f27b-579b-866a-f3d335e52d7a	Wall of Tanglecord
+som	223	2cd697fb-53b0-54f1-a2b6-8a29c20073d0	Wurmcoil Engine
+som	224	1849f292-cd71-567c-9c8f-4ae293796761	Blackcleave Cliffs
+som	225	e7dfec87-8f0e-504a-957d-527470fff597	Copperline Gorge
+som	226	0fb9c18c-fdc2-525e-9ced-d4e5652e855b	Darkslick Shores
+som	227	e0cd6d4a-a610-52cd-b583-b010eddac408	Glimmerpost
+som	228	d0701f80-4fc1-5549-9468-75db1f267506	Razorverge Thicket
+som	229	4fbb40f8-934a-5ac3-8577-396133ddc2ce	Seachrome Coast
+som	230	a2852484-3e71-5f26-a710-48fa6de67dc7	Plains
+som	231	e6987881-ef68-536f-8504-816e1520ba35	Plains
+som	232	bae5939e-d5c8-5e90-9279-7b0737a7e1ce	Plains
+som	233	86c455d0-5781-56d9-866e-28cdb841517c	Plains
+som	234	89558e11-4ce5-5e8e-a00c-f71ed09a9375	Island
+som	235	d0166b4f-c28f-57b6-9e62-b3190683737b	Island
+som	236	06470238-8b38-5523-9610-b02a14aaa9ad	Island
+som	237	72c0489e-dd06-551f-86c9-00dc88f7b607	Island
+som	238	8528bac9-e3ed-55cc-a6f9-5252adceb17e	Swamp
+som	239	7eb989e8-b9e3-5078-a283-d57911fc9c9a	Swamp
+som	240	4ead0bf8-44c7-5efb-bd77-6fadde9f20b3	Swamp
+som	241	52fa1705-0ce5-534d-939b-241ab371005d	Swamp
+som	242	9678b7e7-271a-5155-ac2c-da1f9832b84d	Mountain
+som	243	0d16e923-8cb2-5aea-b8b9-2ec742005533	Mountain
+som	244	e25fb2c9-1e05-5596-87c2-6c7e35a28c92	Mountain
+som	245	43fd9ee5-87a4-5f0a-930e-aa0960093219	Mountain
+som	246	4e454606-8a5a-56dc-95df-b4a03f5d73e1	Forest
+som	247	de7270b3-24ae-5295-9dc5-badca38244e2	Forest
+som	248	51666869-9f49-5e10-931c-eb2f57f939fa	Forest
+som	249	b6344758-6965-5112-945f-6fd73232df3a	Forest
 ths	1	230bc14b-04a1-5dff-90e1-41eafb73c745	Battlewise Valor
 ths	2	b8442a94-14d3-5593-9876-9ed2cb9401f4	Cavalry Pegasus
 ths	3	d3d3595c-4914-5e24-96d3-2c9f5c0a812c	Celestial Archon
