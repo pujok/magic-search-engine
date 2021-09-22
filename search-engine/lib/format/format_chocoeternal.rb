@@ -12,7 +12,7 @@ class FormatChocoEternal < FormatStandard
       "2020-06-01" => ["mh1", "ayr", "soi", "ths", "bng", "jou", "hlw", "shm", "eve", "bfz", "grn", "rna",],
       "2021-01-01" => ["mh1", "ayr", "soi", "ths", "bng", "jou", "hlw", "shm", "eve", "bfz", "grn", "rna", "dom",],
       "2021-06-20" => ["dis", "jou", "bfz", "soi", "plc", "dgm", "ldo", "dhm"],
-      "2021-09-18" => ["som", "mbs", "fut", "shm", "gtc", "ayr", "tsp"],
+      "2021-09-18" => ["som", "mbs", "fut", "shm", "gtc", "ayr", "tsp", "tsb"],
     }
   end
 end
