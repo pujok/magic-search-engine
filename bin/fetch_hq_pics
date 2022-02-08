@@ -7,8 +7,8 @@ def db
   @db ||= CardDatabase.load
 end
 
-#source_base = Pathname("../../AppData/Local/Cockatrice/Cockatrice/pics/CUSTOM/") # "Full" resolution or 200DPI
-source_base = Pathname("C:/Users/Kuba/Documents/AllMtGPics/")
+source_base = Pathname("../../AppData/Local/Cockatrice/Cockatrice/pics/CUSTOM/") # "Full" resolution or 200DPI
+#source_base = Pathname("C:/Users/Kuba/Documents/AllMtGPics/")
 total = Hash.new(0)
 
 db.sets.each do |set_code, set|
@@ -40,7 +40,7 @@ db.sets.each do |set_code, set|
     target_path = Pathname("frontend/public/cards_hq/#{card.set_code}/#{card.number.gsub('*','')}.png")
     next if target_path.exist?
 
-    clean_name = card.name.tr("®", "r").tr(':"?', "")
+    clean_name = card.name.tr("®", "r").tr(':"?', "")#.tr("'","’")
                      .sub(" (Big Furry Monster)", " ")
                      .sub(" Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental", "")
 
@@ -49,6 +49,7 @@ db.sets.each do |set_code, set|
     candidate_names = [
       "#{clean_name}.jpg",
       "#{clean_name}.full.jpg",
+      "#{clean_name}.full.png",
       "#{clean_name}#{index}.jpg",
       "#{clean_name}#{index}.full.jpg",
       "#{clean_name} [#{index}].jpg",

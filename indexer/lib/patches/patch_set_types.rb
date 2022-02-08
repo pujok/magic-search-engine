@@ -2,7 +2,7 @@ class PatchSetTypes < Patch
   def call
     each_set do |set|
       set_code = set["code"]
-      main_set_type = set.delete("type").gsub("_", " ")
+      main_set_type = set.delete("type")&.gsub("_", " ")
       set_types = [main_set_type]
 
       if set["custom"]
