@@ -3653,7 +3653,7 @@ hlw	100		Darkwraith Warband
 hlw	101		Deathless Commander
 hlw	102		Deceitful Stab
 hlw	103		Duress
-hlw	104		Fall From Favor
+hlw	104		Fall From Favor (HLW)
 hlw	105		Fallen Champion
 hlw	106		Fallen Farmer
 hlw	107		The Furtive Pygmy

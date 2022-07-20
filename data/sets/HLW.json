@@ -3372,7 +3372,7 @@
             "hasNonFoil": true,
             "layout": "normal",
             "manaCost": "{B}",
-            "name": "Fall From Favor",
+            "name": "Fall From Favor (HLW)",
             "number": "104",
             "originalText": "Exile target legendary creature.",
             "originalType": "Instant",
